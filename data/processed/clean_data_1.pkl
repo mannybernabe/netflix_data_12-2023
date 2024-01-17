@@ -128,7 +128,7 @@
 126,The Law According to Lidia Poët: Season 1,Yes,2023-02-15,85000000,Spanish,2023,The Law According to Lidia Poët,4,21250000.0
 127,Florida Man: Limited Series,Yes,2023-04-13,84600000,English,2023,Florida Man: Limited Series,3,28200000.0
 128,Lucifer: Season 1,No,2017-07-23,84400000,English,2017,Lucifer,72,1172222.2222222222
-129,Shahmaran: Season 1,Yes,2023-01-20,83600000,English,2023,Shahmaran,5,16720000.0
+129,Shahmaran: Season 1,Yes,2023-01-20,83600000,Indonesian,2023,Shahmaran,5,16720000.0
 130,Breaking Bad: Season 1,No,,83200000,English,0,Breaking Bad,0,inf
 131,The Last Kingdom: Seven Kings Must Die,Yes,2023-04-14,83200000,English,2023,The Last Kingdom: Seven Kings Must Die,3,27733333.333333332
 132,Selling Sunset: Season 6,Yes,2023-05-19,82800000,English,2023,Selling Sunset,1,82800000.0
@@ -200,7 +200,7 @@
 198,Jumanji: The Next Level,No,,64300000,English,0,Jumanji: The Next Level,0,inf
 199,Suits (2011): Season 4,Yes,,64200000,English,0,Suits (2011),0,inf
 200,Gilmore Girls: Season 6,Yes,,63900000,English,0,Gilmore Girls,0,inf
-201,The Tailor: Season 1,Yes,2023-05-02,63900000,pl,2023,The Tailor,2,31950000.0
+201,The Tailor: Season 1,Yes,2023-05-02,63900000,Polish,2023,The Tailor,2,31950000.0
 202,All American: Season 5,No,,63700000,English,0,All American,0,inf
 203,Peppa Pig: Season 2,No,,63700000,English,0,Peppa Pig,0,inf
 204,DAHMER: Monster: The Jeffrey Dahmer Story,Yes,2022-09-21,63500000,English,2022,DAHMER: Monster: The Jeffrey Dahmer Story,9,7055555.555555556
@@ -448,7 +448,7 @@
 447,Narcos: Season 2,Yes,2016-09-02,38600000,English,2016,Narcos,83,465060.2409638554
 445,6 Underground,Yes,2019-12-13,38600000,English,2019,6 Underground,43,897674.4186046511
 448,Grey's Anatomy: Season 6,No,,38400000,English,0,Grey's Anatomy,0,inf
-449,Mother's Day,Yes,2023-05-24,38300000,pl,2023,Mother's Day,1,38300000.0
+449,Mother's Day,Yes,2023-05-24,38300000,Polish,2023,Mother's Day,1,38300000.0
 450,Orange Is the New Black: Season 2,Yes,2014-06-06,38300000,English,2014,Orange Is the New Black,110,348181.8181818182
 451,Vikings (2013): Season 6,No,,38300000,English,0,Vikings (2013),0,inf
 452,El Chapo: Season 2,Yes,2017-12-15,38200000,English,2017,El Chapo,67,570149.2537313433
@@ -616,7 +616,7 @@
 614,Shameless (U.S.): Season 8,No,,30400000,English,0,Shameless (U.S.),0,inf
 617,Pedro el escamoso: Season 1,No,,30300000,English,0,Pedro el escamoso,0,inf
 618,Start-Up: Season 1,Yes,2020-10-17,30300000,Korean,2020,Start-Up,33,918181.8181818182
-619,Tonight You're Sleeping with Me,Yes,2023-03-01,30300000,pl,2023,Tonight You're Sleeping with Me,4,7575000.0
+619,Tonight You're Sleeping with Me,Yes,2023-03-01,30300000,Polish,2023,Tonight You're Sleeping with Me,4,7575000.0
 616,Love at First Kiss,Yes,2023-03-03,30300000,Catalan,2023,Love at First Kiss,4,7575000.0
 615,Downton Abbey: Series 2,No,,30300000,English,0,Downton Abbey: Series 2,0,inf
 620,Grey's Anatomy: Season 11,No,,30200000,English,0,Grey's Anatomy,0,inf
@@ -655,7 +655,7 @@
 654,YES DAY,Yes,2021-03-12,29400000,English,2021,YES DAY,28,1050000.0
 655,You Do You,Yes,2023-06-09,29400000,Turkish,2023,You Do You,1,29400000.0
 653,RRR (Hindi),No,,29400000,English,0,RRR (Hindi),0,inf
-656,A Girl and an Astronaut: Season 1,Yes,2023-02-17,29300000,pl,2023,A Girl and an Astronaut,4,7325000.0
+656,A Girl and an Astronaut: Season 1,Yes,2023-02-17,29300000,Polish,2023,A Girl and an Astronaut,4,7325000.0
 657,ALVINNN!!! And the Chipmunks: Season 2,No,,29300000,English,0,ALVINNN!!! And the Chipmunks,0,inf
 658,Close to Home: Murder in the Coalfield: Season 1,Yes,,29300000,Spanish,0,Close to Home: Murder in the Coalfield,0,inf
 659,Designated Survivor: Season 3,Yes,2019-06-07,29200000,English,2019,Designated Survivor,49,595918.3673469388
@@ -706,7 +706,7 @@
 710,The Cook of Castamar: Season 1,No,2021-04-08,27900000,Spanish,2021,The Cook of Castamar,27,1033333.3333333334
 709,Sex Education: Season 1,Yes,2019-01-11,27900000,English,2019,Sex Education,54,516666.6666666667
 708,Peppa Pig: Season 4,No,,27900000,English,0,Peppa Pig,0,inf
-707,How I Became a Gangster,Yes,2020-06-01,27900000,pl,2020,How I Became a Gangster,37,754054.0540540541
+707,How I Became a Gangster,Yes,2020-06-01,27900000,Polish,2020,How I Became a Gangster,37,754054.0540540541
 706,Harry Potter and the Sorcerer's Stone,No,,27900000,English,0,Harry Potter and the Sorcerer's Stone,0,inf
 704,Anne with an E: Season 3,Yes,2020-01-03,27900000,English,2020,Anne with an E,42,664285.7142857143
 705,Cry Babies Magic Tears: Season 2,Yes,,27900000,English,0,Cry Babies Magic Tears,0,inf
@@ -848,7 +848,7 @@
 845,Heat (1995),No,,24500000,English,0,Heat (1995),0,inf
 844,Downton Abbey: Series 6,No,,24500000,English,0,Downton Abbey: Series 6,0,inf
 843,Cry Babies Magic Tears: Season 1,Yes,,24500000,English,0,Cry Babies Magic Tears,0,inf
-849,First Love: Season 1,Yes,2022-11-24,24400000,English,2022,First Love,7,3485714.285714286
+849,First Love: Season 1,Yes,2022-11-24,24400000,Japanese,2022,First Love,7,3485714.285714286
 850,From Me to You: Kimi ni Todoke: Season 1,No,2023-03-30,24400000,Japanese,2023,From Me to You: Kimi ni Todoke,3,8133333.333333333
 851,Hoarders: Season 12,No,,24400000,English,0,Hoarders,0,inf
 852,Kitti Katz: Season 1,Yes,2023-05-18,24400000,English,2023,Kitti Katz,1,24400000.0
@@ -969,7 +969,7 @@
 966,The Haunting of Hill House,Yes,2018-10-12,22000000,English,2018,The Haunting of Hill House,57,385964.91228070174
 965,Over the Moon,Yes,2020-10-23,22000000,English,2020,Over the Moon,33,666666.6666666666
 969,Jurassic World Camp Cretaceous: Season 3,Yes,2021-05-21,21900000,English,2021,Jurassic World Camp Cretaceous,26,842307.6923076923
-970,Squared Love All Over Again,Yes,2023-02-13,21900000,pl,2023,Squared Love All Over Again,5,4380000.0
+970,Squared Love All Over Again,Yes,2023-02-13,21900000,Polish,2023,Squared Love All Over Again,5,4380000.0
 971,Take Care of Maya,Yes,2023-06-19,21900000,English,2023,Take Care of Maya,0,inf
 972,The Ultimatum: France: Season 1,Yes,2022-12-30,21900000,French,2022,The Ultimatum: France,6,3650000.0
 973,Twilight (2008),No,,21900000,English,0,Twilight (2008),0,inf
@@ -1571,7 +1571,7 @@
 1562,Captain Underpants: The First Epic Movie,No,,13400000,English,0,Captain Underpants: The First Epic Movie,0,inf
 1561,"Boo, Bitch: Limited Series",Yes,2022-07-08,13400000,English,2022,"Boo, Bitch: Limited Series",12,1116666.6666666667
 1560,100 días para enamorarnos: Season 1,No,,13400000,English,0,100 días para enamorarnos,0,inf
-1580,"Kiss, Kiss!",Yes,2023-04-26,13300000,pl,2023,"Kiss, Kiss!",2,6650000.0
+1580,"Kiss, Kiss!",Yes,2023-04-26,13300000,Polish,2023,"Kiss, Kiss!",2,6650000.0
 1586,V Wars: Season 1,Yes,2019-12-05,13300000,English,2019,V Wars,43,309302.32558139536
 1585,UglyDolls,No,,13300000,English,0,UglyDolls,0,inf
 1584,Tyler Perry's I Can Do Bad All by Myself,No,,13300000,English,0,Tyler Perry's I Can Do Bad All by Myself,0,inf
@@ -1633,7 +1633,7 @@
 1631,Elite: Season 3,Yes,2020-03-13,12800000,Spanish,2020,Elite,40,320000.0
 1632,Forged in Fire: Season 8,No,,12800000,English,0,Forged in Fire,0,inf
 1633,Henry Danger: Season 3,No,,12800000,English,0,Henry Danger,0,inf
-1634,Royalteen: Princess Margrethe,Yes,2023-05-11,12800000,nl,2023,Royalteen: Princess Margrethe,2,6400000.0
+1634,Royalteen: Princess Margrethe,Yes,2023-05-11,12800000,English,2023,Royalteen: Princess Margrethe,2,6400000.0
 1639,Midnight Mass: Limited Series,Yes,2021-09-24,12700000,English,2021,Midnight Mass: Limited Series,21,604761.9047619047
 1641,Stolen Away: Season 1,No,2020-06-05,12700000,Spanish,2020,Stolen Away,37,343243.24324324325
 1640,Rainbow High: Season 1,Yes,,12700000,English,0,Rainbow High,0,inf
@@ -2136,7 +2136,7 @@
 2140,SKY Castle: Season 1,Yes,,9500000,Korean,0,SKY Castle,0,inf
 2139,Santa Clarita Diet: Season 1,Yes,2017-02-03,9500000,English,2017,Santa Clarita Diet,78,121794.8717948718
 2138,iZombie: Season 1,No,,9500000,English,0,iZombie,0,inf
-2136,Hold Tight: Limited Series,Yes,2022-04-22,9500000,pl,2022,Hold Tight: Limited Series,14,678571.4285714285
+2136,Hold Tight: Limited Series,Yes,2022-04-22,9500000,Polish,2022,Hold Tight: Limited Series,14,678571.4285714285
 2135,Glitch: Season 3,Yes,2019-09-25,9500000,English,2019,Glitch,46,206521.73913043478
 2134,Dumplin',No,2018-12-07,9500000,English,2018,Dumplin',56,169642.85714285713
 2133,Dream Home Makeover: Season 4,Yes,2022-12-09,9500000,English,2022,Dream Home Makeover,7,1357142.857142857
@@ -2176,7 +2176,7 @@
 2165,Control Z: Season 1,Yes,2020-05-22,9300000,English,2020,Control Z,38,244736.84210526315
 2164,BoJack Horseman: Season 3,Yes,2016-07-22,9300000,English,2016,BoJack Horseman,84,110714.28571428571
 2163,Arpo: Season 1,Yes,,9300000,English,0,Arpo,0,inf
-2162,A Clean Sweep: Part 2,Yes,,9300000,French,0,A Clean Sweep,0,inf
+2162,A Clean Sweep: Part 2,Yes,,9300000,Catalan,0,A Clean Sweep,0,inf
 2168,Ponyo,No,,9300000,Japanese,0,Ponyo,0,inf
 2199,Sh**ting Stars: Season 1,No,,9200000,Korean,0,Sh**ting Stars,0,inf
 2195,Naruto Shippuden: Season 5,No,,9200000,Japanese,0,Naruto Shippuden,0,inf
@@ -2388,7 +2388,7 @@
 2384,Heartland (2007): Season 3,No,,8400000,English,0,Heartland (2007),0,inf
 2385,Kick-Ass 2,No,,8400000,English,0,Kick-Ass 2,0,inf
 2378,Archive 81: Season 1,Yes,2022-01-14,8400000,English,2022,Archive 81,18,466666.6666666667
-2383,Family Secrets: Season 1,Yes,2022-08-31,8400000,pl,2022,Family Secrets,10,840000.0
+2383,Family Secrets: Season 1,Yes,2022-08-31,8400000,Polish,2022,Family Secrets,10,840000.0
 2376,Aftershock: Everest and the Nepal Earthquake: Limited Series,Yes,2022-10-06,8400000,English,2022,Aftershock: Everest and the Nepal Earthquake: Limited Series,9,933333.3333333334
 2377,Angels & Demons,No,,8400000,English,0,Angels & Demons,0,inf
 2375,10 Minutes Gone,No,,8400000,English,0,10 Minutes Gone,0,inf
@@ -2640,10 +2640,10 @@
 2654,Octonauts & the Ring of Fire,Yes,2021-03-30,7400000,English,2021,Octonauts & the Ring of Fire,27,274074.0740740741
 2655,Santa Clarita Diet: Season 2,Yes,2018-03-23,7400000,English,2018,Santa Clarita Diet,64,115625.0
 2651,Keeping Up with the Kardashians: Season 13,No,,7400000,English,0,Keeping Up with the Kardashians,0,inf
-2653,Nobody Sleeps in the Woods Tonight,Yes,2020-03-20,7400000,pl,2020,Nobody Sleeps in the Woods Tonight,40,185000.0
+2653,Nobody Sleeps in the Woods Tonight,Yes,2020-03-20,7400000,Polish,2020,Nobody Sleeps in the Woods Tonight,40,185000.0
 2657,Skull Island: Season 1,Yes,2023-06-22,7400000,English,2023,Skull Island,0,inf
 2656,Selena: The Series: Part 1,Yes,2020-12-04,7400000,English,2020,Selena: The Series,31,238709.67741935485
-2663,Under Fire: Season 1,Yes,2022-08-24,7400000,nl,2022,Under Fire,10,740000.0
+2663,Under Fire: Season 1,Yes,2022-08-24,7400000,German,2022,Under Fire,10,740000.0
 2658,The A List: Season 1,Yes,2019-08-30,7400000,English,2019,The A List,47,157446.8085106383
 2659,The Beast,Yes,2020-11-27,7400000,Spanish,2020,The Beast,32,231250.0
 2660,The Boss Baby: Get That Baby!,Yes,2020-09-01,7400000,English,2020,The Boss Baby: Get That Baby!,34,217647.0588235294
@@ -3068,7 +3068,7 @@
 3084,The Dictator,No,,6100000,English,0,The Dictator,0,inf
 3085,The Nice Guys,No,,6100000,English,0,The Nice Guys,0,inf
 3087,The Protector: Season 4,Yes,2020-07-09,6100000,Turkish,2020,The Protector,36,169444.44444444444
-3088,Too Old for Fairy Tales,Yes,2022-07-18,6100000,pl,2022,Too Old for Fairy Tales,12,508333.3333333333
+3088,Too Old for Fairy Tales,Yes,2022-07-18,6100000,Polish,2022,Too Old for Fairy Tales,12,508333.3333333333
 3089,Trailer Park Boys: Season 11,Yes,2017-03-31,6100000,English,2017,Trailer Park Boys,76,80263.15789473684
 3090,Wedding Crashers,No,,6100000,English,0,Wedding Crashers,0,inf
 3074,Mad for Each Other: Season 1,Yes,2021-05-24,6100000,Korean,2021,Mad for Each Other,26,234615.38461538462
@@ -3301,11 +3301,11 @@
 3277,How to Sell Drugs Online (Fast): Season 1,Yes,2019-05-31,5600000,English,2019,How to Sell Drugs Online (Fast),50,112000.0
 3279,Lovestruck in the City: Season 1,Yes,2020-12-22,5600000,Korean,2020,Lovestruck in the City,31,180645.16129032258
 3275,Fight for My Way: Season 1,No,,5600000,Korean,0,Fight for My Way,0,inf
-3274,Fierce,Yes,2020-12-02,5600000,pl,2020,Fierce,31,180645.16129032258
+3274,Fierce,Yes,2020-12-02,5600000,Polish,2020,Fierce,31,180645.16129032258
 3273,"Farewell, Mr. Haffmann",No,,5600000,Spanish,0,"Farewell, Mr. Haffmann",0,inf
 3338,The Breakfast Club,No,,5500000,English,0,The Breakfast Club,0,inf
 3329,LEGO Ninjago: Masters of Spinjitzu: Hunted,No,,5500000,English,0,LEGO Ninjago: Masters of Spinjitzu: Hunted,0,inf
-3330,Lies Hidden in my Garden: Season 1,No,,5500000,et,0,Lies Hidden in my Garden,0,inf
+3330,Lies Hidden in my Garden: Season 1,No,,5500000,English,0,Lies Hidden in my Garden,0,inf
 3331,Mushoku Tensei: Jobless Reincarnation: Season 1,No,,5500000,Japanese,0,Mushoku Tensei: Jobless Reincarnation,0,inf
 3332,Prey,Yes,2021-09-10,5500000,English,2021,Prey,22,250000.0
 3333,Schitt's Creek: Season 2,No,,5500000,English,0,Schitt's Creek,0,inf
@@ -3398,7 +3398,7 @@
 3419,Robocar Poli: Season 1,Yes,,5300000,English,0,Robocar Poli,0,inf
 3420,Robocar POLI Safety Series,Yes,,5300000,Korean,0,Robocar POLI Safety Series,0,inf
 3421,Rock My Heart,Yes,2019-01-17,5300000,English,2019,Rock My Heart,54,98148.14814814815
-3422,Rurouni Kenshin: The Final,Yes,2021-06-18,5300000,Japanese,2021,Rurouni Kenshin: The Final,25,212000.0
+3422,Rurouni Kenshin: The Final,Yes,2021-06-18,5300000,English,2021,Rurouni Kenshin: The Final,25,212000.0
 3423,Schitt's Creek: Season 3,No,,5300000,English,0,Schitt's Creek,0,inf
 3424,Sintonia: Season 2,Yes,2021-10-27,5300000,English,2021,Sintonia,20,265000.0
 3425,Spycraft: Season 1,Yes,2021-01-20,5300000,English,2021,Spycraft,30,176666.66666666666
@@ -3435,7 +3435,7 @@
 3411,Naruto Shippuden: Season 8,No,,5300000,Japanese,0,Naruto Shippuden,0,inf
 3412,Nice Guy: Season 1,No,,5300000,Korean,0,Nice Guy,0,inf
 3413,Ocean's 8,No,,5300000,English,0,Ocean's 8,0,inf
-3406,In for a Murder,Yes,2021-10-19,5300000,pl,2021,In for a Murder,21,252380.95238095237
+3406,In for a Murder,Yes,2021-10-19,5300000,Polish,2021,In for a Murder,21,252380.95238095237
 3470,She: Season 2,Yes,2022-06-17,5200000,English,2022,She,13,400000.0
 3474,Star Trek: The Next Generation: Season 2,No,,5200000,English,0,Star Trek: The Next Generation,0,inf
 3473,Spirit Riding Free: Season 4,No,2018-03-16,5200000,English,2018,Spirit Riding Free,64,81250.0
@@ -3471,7 +3471,7 @@
 3439,Ben & Holly's Little Kingdom: Season 2,No,,5200000,English,0,Ben & Holly's Little Kingdom,0,inf
 3440,Best of Stand-Up 2022,Yes,2022-12-31,5200000,English,2022,Best of Stand-Up 2022,6,866666.6666666666
 3441,Bordertown: Season 1,No,2017-03-31,5200000,fi,2017,Bordertown,76,68421.05263157895
-3443,Caliphate: Season 1,Yes,2020-03-18,5200000,Swedish,2020,Caliphate,40,130000.0
+3443,Caliphate: Season 1,Yes,2020-03-18,5200000,tl,2020,Caliphate,40,130000.0
 3444,Car Masters: Rust to Riches: Season 2,Yes,2020-03-27,5200000,English,2020,Car Masters: Rust to Riches,40,130000.0
 3445,Derry Girls: Season 2,Yes,2019-08-02,5200000,English,2019,Derry Girls,48,108333.33333333333
 3446,Dinotrux: Season 1,No,2015-08-14,5200000,English,2015,Dinotrux,96,54166.666666666664
@@ -3521,7 +3521,7 @@
 3554,You are My Destiny: Season 1,No,,5100000,et,0,You are My Destiny,0,inf
 3522,My Little Pony: Tell Your Tale: Season 1,Yes,,5100000,English,0,My Little Pony: Tell Your Tale,0,inf
 3523,Nailed It!: Season 7,Yes,2022-10-05,5100000,English,2022,Nailed It!,9,566666.6666666666
-3506,Heart Parade,Yes,2022-06-15,5100000,Portuguese,2022,Heart Parade,13,392307.6923076923
+3506,Heart Parade,Yes,2022-06-15,5100000,Indonesian,2022,Heart Parade,13,392307.6923076923
 3521,Mismatched: Season 2,Yes,2022-10-14,5100000,Hindi,2022,Mismatched,9,566666.6666666666
 3504,Glitch Techs: Season 2,Yes,2020-08-17,5100000,English,2020,Glitch Techs,35,145714.2857142857
 3520,Maya the Bee: Season 1,No,,5100000,English,0,Maya the Bee,0,inf
@@ -3614,7 +3614,7 @@
 3573,Heidi (2015): Season 1,No,,5000000,English,0,Heidi (2015),0,inf
 3648,Operation Mincemeat,No,2022-05-11,4900000,English,2022,Operation Mincemeat,14,350000.0
 3653,Star Trek: The Next Generation: Season 7,No,,4900000,English,0,Star Trek: The Next Generation,0,inf
-3652,Squared Love,Yes,2021-02-11,4900000,pl,2021,Squared Love,29,168965.5172413793
+3652,Squared Love,Yes,2021-02-11,4900000,Polish,2021,Squared Love,29,168965.5172413793
 3651,Slasher: Solstice,Yes,2019-05-23,4900000,English,2019,Slasher: Solstice,50,98000.0
 3650,RV,No,,4900000,English,0,RV,0,inf
 3649,Partners for Justice: Season 2,No,,4900000,Korean,0,Partners for Justice,0,inf
@@ -3929,7 +3929,7 @@
 3957,The Night Comes for Us,Yes,2018-10-19,4300000,English,2018,The Night Comes for Us,57,75438.59649122808
 3958,The Quick and the Dead (1995),No,,4300000,English,0,The Quick and the Dead (1995),0,inf
 3959,The Swan Princess,No,,4300000,English,0,The Swan Princess,0,inf
-3960,The Taming of the Shrewd,Yes,2022-04-13,4300000,pl,2022,The Taming of the Shrewd,15,286666.6666666667
+3960,The Taming of the Shrewd,Yes,2022-04-13,4300000,Polish,2022,The Taming of the Shrewd,15,286666.6666666667
 3961,The Vampire Diaries: Season 7,No,,4300000,English,0,The Vampire Diaries,0,inf
 3962,Trailer Park Boys: The Animated Series: Season 1,Yes,2019-03-31,4300000,English,2019,Trailer Park Boys: The Animated Series,52,82692.30769230769
 3963,Transformers Prime: Season 1,No,,4300000,English,0,Transformers Prime,0,inf
@@ -4125,7 +4125,7 @@
 4077,Ballerina (2016),No,,4000000,English,0,Ballerina (2016),0,inf
 4091,Friday Night Lights: Season 5,No,,4000000,English,0,Friday Night Lights,0,inf
 4099,Naruto Shippuden: Season 18,No,,4000000,Japanese,0,Naruto Shippuden,0,inf
-4092,Girls to Buy,No,,4000000,pl,0,Girls to Buy,0,inf
+4092,Girls to Buy,No,,4000000,Polish,0,Girls to Buy,0,inf
 4104,Paradise Beach,No,2019-11-08,4000000,English,2019,Paradise Beach,44,90909.09090909091
 4102,Open Season 2,No,,4000000,English,0,Open Season 2,0,inf
 4101,Nope,No,,4000000,English,0,Nope,0,inf
@@ -4144,7 +4144,7 @@
 4176,The Lies Within: Season 1,Yes,2019-10-12,3900000,Korean,2019,The Lies Within,45,86666.66666666667
 4172,The Conjuring: The Devil Made Me Do It,No,,3900000,English,0,The Conjuring: The Devil Made Me Do It,0,inf
 4174,The Hills: Season 2,No,,3900000,English,0,The Hills,0,inf
-4173,The Hater,Yes,2020-07-29,3900000,da,2020,The Hater,36,108333.33333333333
+4173,The Hater,Yes,2020-07-29,3900000,sq,2020,The Hater,36,108333.33333333333
 4171,The Big Short,No,,3900000,English,0,The Big Short,0,inf
 4170,Ted 2,No,,3900000,English,0,Ted 2,0,inf
 4181,The Two Popes,Yes,2019-12-20,3900000,English,2019,The Two Popes,43,90697.67441860466
@@ -4417,7 +4417,7 @@
 4458,Parenthood (1989),No,,3500000,English,0,Parenthood (1989),0,inf
 4457,Pan (2015),No,,3500000,English,0,Pan (2015),0,inf
 4456,On the Verge: Season 1,Yes,2021-09-07,3500000,English,2021,On the Verge,22,159090.9090909091
-4455,Nobody Sleeps in the Woods Tonight 2,Yes,2021-10-27,3500000,pl,2021,Nobody Sleeps in the Woods Tonight 2,20,175000.0
+4455,Nobody Sleeps in the Woods Tonight 2,Yes,2021-10-27,3500000,Polish,2021,Nobody Sleeps in the Woods Tonight 2,20,175000.0
 4454,Naruto Shippuden: Season 14,No,,3500000,Japanese,0,Naruto Shippuden,0,inf
 4452,My Hero Academia: Season 3,No,,3500000,Japanese,0,My Hero Academia,0,inf
 4450,Molang: Season 1,No,,3500000,English,0,Molang,0,inf
@@ -4454,7 +4454,7 @@
 4420,Downfall: The Case Against Boeing,Yes,2022-02-18,3500000,English,2022,Downfall: The Case Against Boeing,17,205882.35294117648
 4419,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,No,,3500000,English,0,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,0,inf
 4418,Day of the Dead: Bloodline,Yes,,3500000,English,0,Day of the Dead: Bloodline,0,inf
-4417,Cracow Monsters: Season 1,Yes,2022-03-18,3500000,pl,2022,Cracow Monsters,16,218750.0
+4417,Cracow Monsters: Season 1,Yes,2022-03-18,3500000,Polish,2022,Cracow Monsters,16,218750.0
 4416,Confession,No,,3500000,Korean,0,Confession,0,inf
 4415,Coffee Prince: Season 1,No,,3500000,Korean,0,Coffee Prince,0,inf
 4414,Code Name: Emperor,No,2022-08-12,3500000,Portuguese,2022,Code Name: Emperor,11,318181.8181818182
@@ -4489,7 +4489,7 @@
 4430,Greenhouse Academy: Season 4,Yes,2020-03-20,3500000,English,2020,Greenhouse Academy,40,87500.0
 4429,Gotham: Season 5,No,,3500000,English,0,Gotham,0,inf
 4428,Go Ahead,No,,3500000,Korean,0,Go Ahead,0,inf
-4434,Jamtara - Sabka Number Ayega: Season 1,Yes,2020-01-10,3500000,Hindi,2020,Jamtara - Sabka Number Ayega,42,83333.33333333333
+4434,Jamtara - Sabka Number Ayega: Season 1,Yes,2020-01-10,3500000,Marathi,2020,Jamtara - Sabka Number Ayega,42,83333.33333333333
 4427,Girlfriends (2000): Season 4,No,,3500000,English,0,Girlfriends (2000),0,inf
 4536,SAINT SEIYA: Knights of the Zodiac: Part I,Yes,2019-07-19,3400000,English,2019,SAINT SEIYA: Knights of the Zodiac,48,70833.33333333333
 4542,Taare Zameen Par,No,,3400000,Hindi,0,Taare Zameen Par,0,inf
@@ -4566,7 +4566,7 @@
 4613,Seabiscuit,No,,3300000,English,0,Seabiscuit,0,inf
 4612,Running with the Devil (2019),No,,3300000,English,0,Running with the Devil (2019),0,inf
 4611,Pokémon Journeys: The Series: Part 3,No,2020-12-04,3300000,English,2020,Pokémon Journeys: The Series,31,106451.6129032258
-4610,Operation: Nation,Yes,2023-04-12,3300000,pl,2023,Operation: Nation,3,1100000.0
+4610,Operation: Nation,Yes,2023-04-12,3300000,Polish,2023,Operation: Nation,3,1100000.0
 4609,Only Mine,No,,3300000,English,0,Only Mine,0,inf
 4600,LEGO Friends: Girls on a Mission: Season 3,No,,3300000,English,0,LEGO Friends: Girls on a Mission,0,inf
 4607,Not Another Teen Movie,No,,3300000,English,0,Not Another Teen Movie,0,inf
@@ -4848,7 +4848,7 @@
 4801,Betaal: Season 1,Yes,2020-05-24,3000000,Marathi,2020,Betaal,38,78947.36842105263
 4799,Baby: Season 2,Yes,2019-10-18,3000000,English,2019,Baby,45,66666.66666666667
 4811,Dragon Age: Absolution: Season 1,Yes,2022-12-09,3000000,English,2022,Dragon Age: Absolution,7,428571.4285714286
-4798,Baahubali: The Beginning (Hindi Version),No,,3000000,ne,0,Baahubali: The Beginning (Hindi Version),0,inf
+4798,Baahubali: The Beginning (Hindi Version),No,,3000000,Hindi,0,Baahubali: The Beginning (Hindi Version),0,inf
 4797,B: The Beginning: Season 1,Yes,2018-03-02,3000000,English,2018,B: The Beginning,65,46153.846153846156
 4796,Ashley Garcia: Genius in Love: Part 2,Yes,2020-07-20,3000000,English,2020,Ashley Garcia: Genius in Love,36,83333.33333333333
 4795,Ash vs. Evil Dead: Season 1,No,,3000000,English,0,Ash vs. Evil Dead,0,inf
@@ -4863,7 +4863,7 @@
 4823,Gunpowder Milkshake,No,2021-07-14,3000000,English,2021,Gunpowder Milkshake,24,125000.0
 4813,Earth and Blood,Yes,2020-04-17,3000000,Spanish,2020,Earth and Blood,39,76923.07692307692
 4831,Iron Chef Brazil: Season 1,Yes,2022-08-10,3000000,English,2022,Iron Chef Brazil,11,272727.2727272727
-4830,Into the Wind,Yes,2022-02-10,3000000,pl,2022,Into the Wind,17,176470.58823529413
+4830,Into the Wind,Yes,2022-02-10,3000000,Polish,2022,Into the Wind,17,176470.58823529413
 4829,Interior Design Masters: Season 1,Yes,2019-10-18,3000000,English,2019,Interior Design Masters,45,66666.66666666667
 4828,How I Fell in Love with a Gangster,Yes,2022-01-05,3000000,Spanish,2022,How I Fell in Love with a Gangster,18,166666.66666666666
 4827,Hoping for Good News,No,,3000000,Turkish,0,Hoping for Good News,0,inf
@@ -4929,7 +4929,7 @@
 4902,Drug Lords: Season 1,Yes,2018-01-19,2900000,English,2018,Drug Lords,66,43939.393939393936
 4900,Dil Dhadakne Do,No,,2900000,Hindi,0,Dil Dhadakne Do,0,inf
 4899,Deception - Round D Corner,No,,2900000,Marathi,0,Deception - Round D Corner,0,inf
-4897,Dead End: Season 1,Yes,2022-12-01,2900000,pl,2022,Dead End,7,414285.71428571426
+4897,Dead End: Season 1,Yes,2022-12-01,2900000,Polish,2022,Dead End,7,414285.71428571426
 4896,DC's Legends of Tomorrow: Season 7,No,,2900000,English,0,DC's Legends of Tomorrow,0,inf
 4895,Dave Chappelle: The Closer,Yes,2021-10-05,2900000,English,2021,Dave Chappelle: The Closer,21,138095.2380952381
 4894,Dad Stop Embarrassing Me!: Season 1,Yes,2021-04-14,2900000,English,2021,Dad Stop Embarrassing Me!,27,107407.4074074074
@@ -5306,7 +5306,7 @@
 5333,My Encounter with Evil: Season 1,Yes,2022-10-28,2500000,Spanish,2022,My Encounter with Evil,8,312500.0
 5392,Yowamushi Pedal (2013),No,,2500000,Japanese,0,Yowamushi Pedal (2013),0,inf
 5391,Yakuza Princess,No,2022-04-20,2500000,English,2022,Yakuza Princess,15,166666.66666666666
-5389,Weathering with You,No,,2500000,Korean,0,Weathering with You,0,inf
+5389,Weathering with You,No,,2500000,Japanese,0,Weathering with You,0,inf
 5388,Voice 2,Yes,,2500000,Korean,0,Voice 2,0,inf
 5387,Velvet Colección: Season 1,No,,2500000,English,0,Velvet Colección,0,inf
 5386,Tyler Perry's Temptation: Confessions of a Marriage Counselor,No,,2500000,English,0,Tyler Perry's Temptation: Confessions of a Marriage Counselor,0,inf
@@ -5396,7 +5396,7 @@
 5477,Still Game: Season 5,No,,2400000,English,0,Still Game,0,inf
 5476,Spy Kids: Mission Critical: Season 2,Yes,2018-11-30,2400000,English,2018,Spy Kids: Mission Critical,56,42857.142857142855
 5475,Skin Decision: Before and After: Season 1,Yes,2020-07-15,2400000,English,2020,Skin Decision: Before and After,36,66666.66666666667
-5474,Sirius the Jaeger: Season 1,No,2018-07-19,2400000,Japanese,2018,Sirius the Jaeger,60,40000.0
+5474,Sirius the Jaeger: Season 1,No,2018-07-19,2400000,English,2018,Sirius the Jaeger,60,40000.0
 5466,Raising the Bar (2016),No,,2400000,English,0,Raising the Bar (2016),0,inf
 5472,Selling Tampa: Season 1,Yes,2021-12-15,2400000,English,2021,Selling Tampa,19,126315.78947368421
 5471,Scream: Season 3,No,,2400000,English,0,Scream,0,inf
@@ -5591,7 +5591,7 @@
 5513,Ali (2001),No,,2300000,English,0,Ali (2001),0,inf
 5512,Adiós,No,,2300000,English,0,Adiós,0,inf
 5511,72 Cutest Animals: Season 1,No,,2300000,English,0,72 Cutest Animals,0,inf
-5510,40 Years Young,Yes,2022-05-04,2300000,Spanish,2022,40 Years Young,14,164285.7142857143
+5510,40 Years Young,Yes,2022-05-04,2300000,Italian,2022,40 Years Young,14,164285.7142857143
 5509,12 Mighty Orphans,No,,2300000,English,0,12 Mighty Orphans,0,inf
 5565,Memories of a Murderer: The Nilsen Tapes,Yes,2021-08-18,2300000,English,2021,Memories of a Murderer: The Nilsen Tapes,23,100000.0
 5535,Despite Everything,Yes,2019-05-03,2300000,Portuguese,2019,Despite Everything,51,45098.03921568627
@@ -5626,7 +5626,7 @@
 5549,Hi! Come in: Season 1,No,,2300000,Korean,0,Hi! Come in,0,inf
 5709,Son of the Mask,No,,2200000,English,0,Son of the Mask,0,inf
 5704,Shamwari Untamed: Season 1,No,,2200000,English,0,Shamwari Untamed,0,inf
-5705,Sing For Me: Teen Edition: Season 2,No,,2200000,English,0,Sing For Me: Teen Edition,0,inf
+5705,Sing For Me: Teen Edition: Season 2,No,,2200000,Spanish,0,Sing For Me: Teen Edition,0,inf
 5706,Sleepers (1996),No,,2200000,English,0,Sleepers (1996),0,inf
 5707,Somebody Feed Phil: Season 2,Yes,2018-07-06,2200000,English,2018,Somebody Feed Phil,61,36065.57377049181
 5708,Someday or One Day: Season 1,No,,2200000,Korean,0,Someday or One Day,0,inf
@@ -5713,7 +5713,7 @@
 5630,Austin Powers: The Spy Who Shagged Me,No,,2200000,English,0,Austin Powers: The Spy Who Shagged Me,0,inf
 5629,Aftertaste: Season 1,No,,2200000,English,0,Aftertaste,0,inf
 5628,A.X.L.,No,2018-10-26,2200000,English,2018,A.X.L.,57,38596.491228070176
-5626,A Night at the Kindergarten,Yes,2022-12-28,2200000,pl,2022,A Night at the Kindergarten,6,366666.6666666667
+5626,A Night at the Kindergarten,Yes,2022-12-28,2200000,Polish,2022,A Night at the Kindergarten,6,366666.6666666667
 5684,Miss Congeniality,No,,2200000,English,0,Miss Congeniality,0,inf
 5653,Donnie Brasco,No,,2200000,English,0,Donnie Brasco,0,inf
 5627,A Not So Merry Christmas,Yes,2022-12-20,2200000,Spanish,2022,A Not So Merry Christmas,6,366666.6666666667
@@ -5735,7 +5735,7 @@
 5682,"Meet, Marry, Murder: Season 1",No,,2200000,English,0,"Meet, Marry, Murder",0,inf
 5669,Is It Wrong to Try to Pick Up Girls in a Dungeon?: Season 4,No,,2200000,Japanese,0,Is It Wrong to Try to Pick Up Girls in a Dungeon?,0,inf
 5662,Going for Gold (2018),No,,2200000,English,0,Going for Gold (2018),0,inf
-5668,Iron Chef: Mexico: Season 1,Yes,2022-09-21,2200000,Spanish,2022,Iron Chef: Mexico,9,244444.44444444444
+5668,Iron Chef: Mexico: Season 1,Yes,2022-09-21,2200000,English,2022,Iron Chef: Mexico,9,244444.44444444444
 5659,Fullmetal Alchemist The Revenge of Scar,Yes,2022-08-20,2200000,Japanese,2022,Fullmetal Alchemist The Revenge of Scar,10,220000.0
 5660,Furie,No,2019-05-22,2200000,vi,2019,Furie,50,44000.0
 5661,Glitter Force: Season 2,No,2016-08-26,2200000,English,2016,Glitter Force,83,26506.024096385543
@@ -5770,7 +5770,7 @@
 5811,Pain & Gain,No,,2100000,English,0,Pain & Gain,0,inf
 5810,Pacific Rim: The Black: Season 2,Yes,2022-04-19,2100000,English,2022,Pacific Rim: The Black,15,140000.0
 5809,Outlander: Season 7,No,2023-06-16,2100000,English,2023,Outlander,0,inf
-5808,Open Your Eyes: Season 1,Yes,2021-08-25,2100000,pl,2021,Open Your Eyes,22,95454.54545454546
+5808,Open Your Eyes: Season 1,Yes,2021-08-25,2100000,Polish,2021,Open Your Eyes,22,95454.54545454546
 5835,The Imperial Age: Season 1,No,,2100000,Korean,0,The Imperial Age,0,inf
 5807,ONE PIECE: Marineford,No,,2100000,Japanese,0,ONE PIECE: Marineford,0,inf
 5834,The House of Flowers: Season 2,Yes,2019-10-18,2100000,Spanish,2019,The House of Flowers,45,46666.666666666664
@@ -6121,7 +6121,7 @@
 6024,Alvin and the Chipmunks: The Road Chip,No,,1900000,English,0,Alvin and the Chipmunks: The Road Chip,0,inf
 6025,Annabelle,No,,1900000,English,0,Annabelle,0,inf
 6026,Avengers Climate Conundrum: Season 1,No,,1900000,English,0,Avengers Climate Conundrum,0,inf
-6027,Bad Seeds,No,2018-12-21,1900000,et,2018,Bad Seeds,55,34545.454545454544
+6027,Bad Seeds,No,2018-12-21,1900000,German,2018,Bad Seeds,55,34545.454545454544
 6048,Don't Dare to Dream: Season 1,No,,1900000,Korean,0,Don't Dare to Dream,0,inf
 6028,Bananas in Pyjamas (2011): Season 1,No,,1900000,English,0,Bananas in Pyjamas (2011),0,inf
 6050,Doom at Your Service,No,,1900000,Korean,0,Doom at Your Service,0,inf
@@ -6365,7 +6365,7 @@
 6415,Poldark (2015): Season 3,No,,1700000,English,0,Poldark (2015),0,inf
 6417,Princess Hours: Season 1,No,,1700000,Korean,0,Princess Hours,0,inf
 6425,Sabotage (2014),No,,1700000,English,0,Sabotage (2014),0,inf
-6419,Queen: Season 1,Yes,2022-06-23,1700000,pl,2022,Queen,12,141666.66666666666
+6419,Queen: Season 1,Yes,2022-06-23,1700000,Polish,2022,Queen,12,141666.66666666666
 6420,Raat Akeli Hai,Yes,2020-07-31,1700000,Spanish,2020,Raat Akeli Hai,35,48571.42857142857
 6421,Riders of Justice,No,,1700000,da,0,Riders of Justice,0,inf
 6422,Ronaldo,No,,1700000,English,0,Ronaldo,0,inf
@@ -6849,7 +6849,7 @@
 6999,Rotten: Season 1,Yes,2018-01-05,1400000,English,2018,Rotten,67,20895.5223880597
 6994,Rita: Season 5,Yes,2020-08-15,1400000,English,2020,Rita,35,40000.0
 6998,Rookie Blue: Season 2,No,,1400000,English,0,Rookie Blue,0,inf
-6997,"Romina, My Life",No,,1400000,tl,0,"Romina, My Life",0,inf
+6997,"Romina, My Life",No,,1400000,Italian,0,"Romina, My Life",0,inf
 6996,RocknRolla,No,,1400000,English,0,RocknRolla,0,inf
 6995,River Runs Red,No,,1400000,English,0,River Runs Red,0,inf
 7014,Teenage Parents: Season 2,No,,1400000,Korean,0,Teenage Parents,0,inf
@@ -7009,7 +7009,7 @@
 6862,Até Que A Sorte Nos Separe 3,No,,1400000,English,0,Até Que A Sorte Nos Separe 3,0,inf
 6863,Baaghi,No,,1400000,ne,0,Baaghi,0,inf
 6864,Baazaar,No,,1400000,Hindi,0,Baazaar,0,inf
-6865,Bad Exorcist: Season 1,Yes,2020-12-03,1400000,nl,2020,Bad Exorcist,31,45161.290322580644
+6865,Bad Exorcist: Season 1,Yes,2020-12-03,1400000,Polish,2020,Bad Exorcist,31,45161.290322580644
 6866,Bad Guys: Vile City: Season 1,No,2018-03-08,1400000,Korean,2018,Bad Guys: Vile City,65,21538.46153846154
 6867,Baptiste: Season 1,No,,1400000,English,0,Baptiste,0,inf
 6868,Bayi Ajaib,Yes,,1400000,English,0,Bayi Ajaib,0,inf
@@ -7193,7 +7193,7 @@
 7193,Mord mit Aussicht: Season 1,No,,1300000,English,0,Mord mit Aussicht,0,inf
 7088,Astérix: The Mansion of the Gods,No,,1300000,French,0,Astérix: The Mansion of the Gods,0,inf
 7191,Mona Lisa Smile,No,,1300000,English,0,Mona Lisa Smile,0,inf
-7131,FullMetal Alchemist,Yes,2018-02-19,1300000,Japanese,2018,FullMetal Alchemist,65,20000.0
+7131,FullMetal Alchemist,Yes,2018-02-19,1300000,Korean,2018,FullMetal Alchemist,65,20000.0
 7103,Carmen Sandiego: To Steal or Not to Steal,Yes,2020-03-10,1300000,English,2020,Carmen Sandiego: To Steal or Not to Steal,40,32500.0
 7104,Castle and Castle: Season 1,Yes,2020-02-13,1300000,English,2020,Castle and Castle,41,31707.317073170732
 7105,Chico Bon Bon: Monkey with a Tool Belt: Season 3,Yes,2020-09-22,1300000,English,2020,Chico Bon Bon: Monkey with a Tool Belt,34,38235.294117647056
@@ -7417,7 +7417,7 @@
 7506,The Big Wedding,No,,1200000,English,0,The Big Wedding,0,inf
 7508,The Book of Henry,No,,1200000,English,0,The Book of Henry,0,inf
 7522,"The Mind, Explained: Season 1",Yes,2019-09-12,1200000,English,2019,"The Mind, Explained",46,26086.956521739132
-7509,The Bridge: Season 4,No,,1200000,Swedish,0,The Bridge,0,inf
+7509,The Bridge: Season 4,No,,1200000,tl,0,The Bridge,0,inf
 7510,The Chosen One: Season 2,Yes,2019-12-06,1200000,Spanish,2019,The Chosen One,43,27906.976744186046
 7511,The Cobbler,No,,1200000,English,0,The Cobbler,0,inf
 7512,The Eye (2008),No,,1200000,English,0,The Eye (2008),0,inf
@@ -7481,7 +7481,7 @@
 7326,Ayalvaashi,No,,1200000,English,0,Ayalvaashi,0,inf
 7327,Babe,No,,1200000,English,0,Babe,0,inf
 7328,Babyteeth,No,,1200000,English,0,Babyteeth,0,inf
-7329,Bad Exorcist: Season 2,Yes,2021-10-13,1200000,pl,2021,Bad Exorcist,21,57142.857142857145
+7329,Bad Exorcist: Season 2,Yes,2021-10-13,1200000,Polish,2021,Bad Exorcist,21,57142.857142857145
 7330,Bakugan Legends: Season 5,No,,1200000,English,0,Bakugan Legends,0,inf
 7331,Bangkok Breaking: Season 1,Yes,2021-09-23,1200000,Thai,2021,Bangkok Breaking,22,54545.454545454544
 7332,Barbie & Her Sisters in a Puppy Chase,No,,1200000,English,0,Barbie & Her Sisters in a Puppy Chase,0,inf
@@ -7496,7 +7496,7 @@
 7417,Jakarta vs Everybody,Yes,,1200000,English,0,Jakarta vs Everybody,0,inf
 7404,How to Ruin Christmas: The Baby Shower,Yes,2022-12-09,1200000,English,2022,How to Ruin Christmas: The Baby Shower,7,171428.57142857142
 7405,Hulk,No,,1200000,English,0,Hulk,0,inf
-7406,"Hyde, Jekyll, Me: Season 1",No,,1200000,Korean,0,"Hyde, Jekyll, Me",0,inf
+7406,"Hyde, Jekyll, Me: Season 1",No,,1200000,et,0,"Hyde, Jekyll, Me",0,inf
 7407,I See Dead People: Season 1,No,,1200000,Thai,0,I See Dead People,0,inf
 7408,ID2: Shadwell Army,No,,1200000,English,0,ID2: Shadwell Army,0,inf
 7409,Identity (2003),No,,1200000,English,0,Identity (2003),0,inf
@@ -7672,7 +7672,7 @@
 7763,Sungkyunkwan Scandal: Season 1,No,,1100000,Korean,0,Sungkyunkwan Scandal,0,inf
 7777,The Divine Fury,No,,1100000,Korean,0,The Divine Fury,0,inf
 7778,The Exorcism of Emily Rose,No,,1100000,English,0,The Exorcism of Emily Rose,0,inf
-7779,The Getaway King,Yes,2022-03-16,1100000,Slovenian,2022,The Getaway King,16,68750.0
+7779,The Getaway King,Yes,2022-03-16,1100000,sk,2022,The Getaway King,16,68750.0
 7780,The Great Gatsby (2013),No,,1100000,English,0,The Great Gatsby (2013),0,inf
 7781,The Indian Detective: Season 1,Yes,2017-12-18,1100000,English,2017,The Indian Detective,67,16417.910447761195
 7782,The Invention of Lying,No,,1100000,English,0,The Invention of Lying,0,inf
@@ -7818,7 +7818,7 @@
 7639,Haunted: Season 2,Yes,2019-10-11,1100000,English,2019,Haunted,45,24444.444444444445
 7651,How to Get Over a Breakup,Yes,2018-10-19,1100000,Italian,2018,How to Get Over a Breakup,57,19298.245614035088
 7650,How to Be Really Bad,No,,1100000,German,0,How to Be Really Bad,0,inf
-7653,Hozuki's Coolheadedness: Season 1,No,,1100000,Korean,0,Hozuki's Coolheadedness,0,inf
+7653,Hozuki's Coolheadedness: Season 1,No,,1100000,Japanese,0,Hozuki's Coolheadedness,0,inf
 7648,Honey Lemon Soda,No,,1100000,Japanese,0,Honey Lemon Soda,0,inf
 7647,History of Swear Words: Season 1,Yes,2021-01-05,1100000,English,2021,History of Swear Words,30,36666.666666666664
 7646,Hey Arnold! The Jungle Movie,No,,1100000,English,0,Hey Arnold! The Jungle Movie,0,inf
@@ -8048,7 +8048,7 @@
 7855,Blue Valentine,No,,1000000,English,0,Blue Valentine,0,inf
 7854,BLACK LAGOON The Second Barrage,No,,1000000,English,0,BLACK LAGOON The Second Barrage,0,inf
 7853,Bibi Blocksberg and the Secret of Blue Owls,No,,1000000,Spanish,0,Bibi Blocksberg and the Secret of Blue Owls,0,inf
-7852,Bibi & Tina II,No,,1000000,Swedish,0,Bibi & Tina II,0,inf
+7852,Bibi & Tina II,No,,1000000,German,0,Bibi & Tina II,0,inf
 7851,Beneath (2013),No,,1000000,English,0,Beneath (2013),0,inf
 7850,Becoming,Yes,2020-05-06,1000000,English,2020,Becoming,38,26315.78947368421
 7849,Barfi!,No,,1000000,Marathi,0,Barfi!,0,inf
@@ -8088,7 +8088,7 @@
 7970,Liar: Season 1,No,,1000000,English,0,Liar,0,inf
 7969,LEGO Jurassic World: The Indominus Escape,No,,1000000,English,0,LEGO Jurassic World: The Indominus Escape,0,inf
 7968,LEGO City 2018,No,,1000000,English,0,LEGO City 2018,0,inf
-7967,Legend of Yun Xi: Season 1,No,,1000000,zh-cn,0,Legend of Yun Xi,0,inf
+7967,Legend of Yun Xi: Season 1,No,,1000000,Korean,0,Legend of Yun Xi,0,inf
 7966,Last Chance U: INDY: Part 2,Yes,2019-07-19,1000000,English,2019,Last Chance U: INDY,48,20833.333333333332
 7965,Lady J,No,2019-03-08,1000000,Spanish,2019,Lady J,52,19230.76923076923
 7964,La Tour Montparnasse infernale,No,,1000000,English,0,La Tour Montparnasse infernale,0,inf
@@ -8181,7 +8181,7 @@
 8335,Numberblocks: Season 5,No,,900000,English,0,Numberblocks,0,inf
 8334,Nobody Knows I'm Here,No,2020-06-24,900000,Spanish,2020,Nobody Knows I'm Here,37,24324.324324324323
 8333,No Regrets in Life: Season 1,Yes,2022-06-18,900000,Korean,2022,No Regrets in Life,13,69230.76923076923
-8332,No One Will Ever Know,No,,900000,Spanish,0,No One Will Ever Know,0,inf
+8332,No One Will Ever Know,No,,900000,sk,0,No One Will Ever Know,0,inf
 8331,Nick Kroll: Little Big Boy,Yes,2022-09-27,900000,English,2022,Nick Kroll: Little Big Boy,9,100000.0
 8330,New World: Season 1,Yes,2021-11-20,900000,Korean,2021,New World,20,45000.0
 8329,New Interpretation Records of the Three Kingdoms,No,,900000,Korean,0,New Interpretation Records of the Three Kingdoms,0,inf
@@ -8370,7 +8370,7 @@
 8145,Acquitted: Season 2,No,,900000,no,0,Acquitted,0,inf
 8144,Ace Ventura: When Nature Calls,No,,900000,English,0,Ace Ventura: When Nature Calls,0,inf
 8143,Abstract: The Art of Design: Season 2,Yes,2019-09-25,900000,English,2019,Abstract: The Art of Design,46,19565.217391304348
-8142,A Thousand Goodnights: Season 1,No,2019-05-31,900000,zh-tw,2019,A Thousand Goodnights,50,18000.0
+8142,A Thousand Goodnights: Season 1,No,2019-05-31,900000,Korean,2019,A Thousand Goodnights,50,18000.0
 8141,A Perfect Plan,No,,900000,Spanish,0,A Perfect Plan,0,inf
 8139,A Futile and Stupid Gesture,Yes,2018-01-26,900000,English,2018,A Futile and Stupid Gesture,66,13636.363636363636
 8173,BoBoiBoy: Season 1,No,,900000,English,0,BoBoiBoy,0,inf
@@ -8950,7 +8950,7 @@
 9170,Pitbull Last Dog,No,,700000,Spanish,0,Pitbull Last Dog,0,inf
 9129,Money Trap,Yes,2019-02-15,700000,Turkish,2019,Money Trap,53,13207.547169811322
 9140,Naruto Shippûden the Movie: The Will of Fire,No,,700000,Japanese,0,Naruto Shippûden the Movie: The Will of Fire,0,inf
-9139,My Wonderful Life,Yes,2022-02-28,700000,pl,2022,My Wonderful Life,16,43750.0
+9139,My Wonderful Life,Yes,2022-02-28,700000,Polish,2022,My Wonderful Life,16,43750.0
 9138,My SL Partner: Season 1,No,,700000,Korean,0,My SL Partner,0,inf
 9137,My Old Lady,No,,700000,English,0,My Old Lady,0,inf
 9136,My Next Guest Needs No Introduction With David Letterman: Season 3,Yes,2020-10-21,700000,English,2020,My Next Guest Needs No Introduction With David Letterman,33,21212.121212121212
@@ -9016,7 +9016,7 @@
 9302,Torbaaz,Yes,,700000,Marathi,0,Torbaaz,0,inf
 9301,Top Gear (2003): Season 31,No,,700000,English,0,Top Gear (2003),0,inf
 9300,Tokyo Ghoul,No,,700000,Japanese,0,Tokyo Ghoul,0,inf
-9299,Toilet: Ek Prem Katha,No,,700000,Hindi,0,Toilet: Ek Prem Katha,0,inf
+9299,Toilet: Ek Prem Katha,No,,700000,Marathi,0,Toilet: Ek Prem Katha,0,inf
 9298,Together Together,No,,700000,English,0,Together Together,0,inf
 9297,TOBOT Galaxy Detectives: Swag’s Secret,Yes,,700000,Spanish,0,TOBOT Galaxy Detectives: Swag’s Secret,0,inf
 9296,To Love Is To Grow,No,,700000,Portuguese,0,To Love Is To Grow,0,inf
@@ -9067,7 +9067,7 @@
 9251,The Final Destination,No,,700000,English,0,The Final Destination,0,inf
 9250,The Drowning: Season 1,No,,700000,English,0,The Drowning,0,inf
 9249,The Door into Summer,Yes,,700000,Japanese,0,The Door into Summer,0,inf
-9248,The Crime: Season 1,Yes,,700000,pl,0,The Crime,0,inf
+9248,The Crime: Season 1,Yes,,700000,Polish,0,The Crime,0,inf
 9247,The Courier (2020),No,,700000,English,0,The Courier (2020),0,inf
 9246,The Commuter,No,,700000,English,0,The Commuter,0,inf
 9245,The Chef Show: Season 1 - Volume 2,Yes,2019-09-13,700000,English,2019,The Chef Show,46,15217.391304347826
@@ -9212,7 +9212,7 @@
 8936,Beat Bugs: Season 2,Yes,2016-11-18,700000,English,2016,Beat Bugs,80,8750.0
 8935,Barbecue (2014),No,,700000,English,0,Barbecue (2014),0,inf
 8934,"Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside: Season 1",No,,700000,Japanese,0,"Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",0,inf
-8933,Bad Exorcist: Season 3,No,2022-10-24,700000,nl,2022,Bad Exorcist,8,87500.0
+8933,Bad Exorcist: Season 3,No,2022-10-24,700000,Polish,2022,Bad Exorcist,8,87500.0
 8932,Bachelorette,No,,700000,English,0,Bachelorette,0,inf
 8930,B: The Beginning: Season 2 Succession,Yes,2021-03-18,700000,English,2021,B: The Beginning,28,25000.0
 8918,Alpha and Omega,No,,700000,English,0,Alpha and Omega,0,inf
@@ -9364,7 +9364,7 @@
 9683,Point Break (2015),No,,600000,English,0,Point Break (2015),0,inf
 9682,Please Feel at Ease Mr. Ling: Season 1,No,,600000,Spanish,0,Please Feel at Ease Mr. Ling,0,inf
 9681,Players,No,,600000,Spanish,0,Players,0,inf
-9680,Pitbull Public Orders,No,,600000,pl,0,Pitbull Public Orders,0,inf
+9680,Pitbull Public Orders,No,,600000,Polish,0,Pitbull Public Orders,0,inf
 9678,Pettersson und Findus: Season 2,No,,600000,English,0,Pettersson und Findus,0,inf
 9677,Perú: Tesoro escondido,Yes,,600000,English,0,Perú: Tesoro escondido,0,inf
 9675,Pee Nak 3,No,,600000,Thai,0,Pee Nak 3,0,inf
@@ -9482,7 +9482,7 @@
 9832,Tres metros sobre el cielo,No,,600000,English,0,Tres metros sobre el cielo,0,inf
 9831,Travelogue Earth: 2023,No,,600000,Spanish,0,Travelogue Earth: 2023,0,inf
 9830,Trash,No,,600000,Portuguese,0,Trash,0,inf
-9829,Together,No,,600000,sk,0,Together,0,inf
+9829,Together,No,,600000,ro,0,Together,0,inf
 9828,"To Each, Her Own",Yes,2018-06-24,600000,French,2018,"To Each, Her Own",61,9836.065573770491
 9827,Tish Tash: Season 1,No,,600000,Korean,0,Tish Tash,0,inf
 9826,Thunderstruck (2012),No,,600000,English,0,Thunderstruck (2012),0,inf
@@ -9516,7 +9516,7 @@
 9865,Yoshimoto Shinkigeki: Season 2,No,,600000,Japanese,0,Yoshimoto Shinkigeki,0,inf
 9864,Ya Boy Kongming!: Season 1,No,,600000,Japanese,0,Ya Boy Kongming!,0,inf
 9863,Wormwood: Chapters 1-6,Yes,2017-12-15,600000,English,2017,Wormwood: Chapters 1-6,67,8955.223880597016
-9862,Women of Mafia,No,,600000,pl,0,Women of Mafia,0,inf
+9862,Women of Mafia,No,,600000,Polish,0,Women of Mafia,0,inf
 9861,Wolke unterm Dach,No,,600000,English,0,Wolke unterm Dach,0,inf
 9860,Witching & Bitching,No,,600000,Spanish,0,Witching & Bitching,0,inf
 9859,Wild Mountain Thyme,No,,600000,English,0,Wild Mountain Thyme,0,inf
@@ -9561,7 +9561,7 @@
 9753,The 15:17 to Paris,No,,600000,English,0,The 15:17 to Paris,0,inf
 9752,That Time I Got Reincarnated as a Slime: OAD Season 1,No,,600000,Japanese,0,That Time I Got Reincarnated as a Slime: OAD Season 1,0,inf
 9751,Terrace House: Aloha State: Part 3,Yes,2017-03-20,600000,sq,2017,Terrace House: Aloha State,76,7894.736842105263
-9750,Terrace House: Aloha State: Part 2,Yes,2017-01-09,600000,Japanese,2017,Terrace House: Aloha State,79,7594.93670886076
+9750,Terrace House: Aloha State: Part 2,Yes,2017-01-09,600000,sq,2017,Terrace House: Aloha State,79,7594.93670886076
 9749,Terrace House: Aloha State: Part 1,Yes,2016-10-31,600000,sq,2016,Terrace House: Aloha State,81,7407.407407407408
 9748,Tazza: One Eyed Jack,No,,600000,Korean,0,Tazza: One Eyed Jack,0,inf
 9747,Tamara Vol. 2,No,,600000,English,0,Tamara Vol. 2,0,inf
@@ -9813,7 +9813,7 @@
 9501,Gamonya: Hayaller Ülkesi,No,,600000,English,0,Gamonya: Hayaller Ülkesi,0,inf
 9500,Game Night,No,,600000,English,0,Game Night,0,inf
 9499,Física o Química: Season 5,No,,600000,English,0,Física o Química,0,inf
-9498,Fullmetal Alchemist: Brotherhood: Part 1,No,,600000,German,0,Fullmetal Alchemist: Brotherhood,0,inf
+9498,Fullmetal Alchemist: Brotherhood: Part 1,No,,600000,et,0,Fullmetal Alchemist: Brotherhood,0,inf
 9497,Fresh Meat: Series 4,No,,600000,English,0,Fresh Meat: Series 4,0,inf
 9496,Fracture (2007),No,,600000,English,0,Fracture (2007),0,inf
 9495,Four Sisters Before the Wedding,Yes,,600000,English,0,Four Sisters Before the Wedding,0,inf
@@ -10086,7 +10086,7 @@
 10520,Who Killed Santa? A Murderville Murder Mystery,Yes,2022-12-15,500000,English,2022,Who Killed Santa? A Murderville Murder Mystery,7,71428.57142857143
 10521,Win It All,Yes,2017-04-06,500000,English,2017,Win It All,76,6578.9473684210525
 10522,Wish You,Yes,,500000,Korean,0,Wish You,0,inf
-10523,Women of Mafia: Season 1,No,,500000,pl,0,Women of Mafia,0,inf
+10523,Women of Mafia: Season 1,No,,500000,Polish,0,Women of Mafia,0,inf
 10524,Woof,No,,500000,German,0,Woof,0,inf
 10525,World Trigger: Season 3,No,,500000,Japanese,0,World Trigger,0,inf
 10526,YooHoo to the Rescue: Season 2,Yes,2019-10-11,500000,English,2019,YooHoo to the Rescue,45,11111.111111111111
@@ -10124,7 +10124,7 @@
 10392,"The Brave ""Yoshihiko"" and The Seven Driven People",No,,500000,Japanese,0,"The Brave ""Yoshihiko"" and The Seven Driven People",0,inf
 10393,The Break: Season 2,No,,500000,Spanish,0,The Break,0,inf
 10394,The Bride,No,,500000,bg,0,The Bride,0,inf
-10395,The Cage: Season 1,Yes,2022-09-23,500000,ar,2022,The Cage,9,55555.555555555555
+10395,The Cage: Season 1,Yes,2022-09-23,500000,English,2022,The Cage,9,55555.555555555555
 10396,The Call (2013),No,,500000,English,0,The Call (2013),0,inf
 10397,The Cave (2005),No,,500000,English,0,The Cave (2005),0,inf
 10398,The Chaos Class Is Waking Up,No,,500000,Spanish,0,The Chaos Class Is Waking Up,0,inf
@@ -10132,7 +10132,7 @@
 10400,The Claus Family,Yes,2020-12-07,500000,Spanish,2020,The Claus Family,31,16129.032258064517
 10401,The Cold Light Of Day (2012),No,,500000,English,0,The Cold Light Of Day (2012),0,inf
 10402,The Coming War on China,No,,500000,English,0,The Coming War on China,0,inf
-10403,The Crime: Season 2,Yes,,500000,pl,0,The Crime,0,inf
+10403,The Crime: Season 2,Yes,,500000,Polish,0,The Crime,0,inf
 10404,The Curse of La Llorona,No,,500000,English,0,The Curse of La Llorona,0,inf
 10405,The Defected: Season 1,No,,500000,Korean,0,The Defected,0,inf
 10406,The Destiny of White Snake: Season 1,No,,500000,Korean,0,The Destiny of White Snake,0,inf
@@ -10249,7 +10249,7 @@
 10017,Disobedience,No,,500000,English,0,Disobedience,0,inf
 10018,Divines,Yes,2016-11-18,500000,English,2016,Divines,80,6250.0
 10019,Divorzio a Las Vegas,No,,500000,English,0,Divorzio a Las Vegas,0,inf
-10020,Do Dooni Chaar,No,,500000,Marathi,0,Do Dooni Chaar,0,inf
+10020,Do Dooni Chaar,No,,500000,Hindi,0,Do Dooni Chaar,0,inf
 10021,Doctor X Surgeon Michiko Daimon 1,No,,500000,Japanese,0,Doctor X Surgeon Michiko Daimon 1,0,inf
 10022,Doctor X Surgeon Michiko Daimon 2,No,,500000,Japanese,0,Doctor X Surgeon Michiko Daimon 2,0,inf
 10023,Doctor X Surgeon Michiko Daimon 3,No,,500000,Japanese,0,Doctor X Surgeon Michiko Daimon 3,0,inf
@@ -10267,7 +10267,7 @@
 10013,Detour,No,,500000,Korean,0,Detour,0,inf
 10003,Days: Season 1,No,,500000,English,0,Days,0,inf
 9996,Cristela Alonzo: Middle Classy,Yes,2022-06-28,500000,English,2022,Cristela Alonzo: Middle Classy,12,41666.666666666664
-9997,Crocodiles,No,,500000,Slovenian,0,Crocodiles,0,inf
+9997,Crocodiles,No,,500000,German,0,Crocodiles,0,inf
 9998,Cuckoo: Season 3,No,2016-04-14,500000,English,2016,Cuckoo,88,5681.818181818182
 9999,Dad in Training,No,,500000,French,0,Dad in Training,0,inf
 10000,Dark Money: Season 1,No,,500000,English,0,Dark Money,0,inf
@@ -10297,7 +10297,7 @@
 9899,Almost Fly: Season 1,No,,500000,English,0,Almost Fly,0,inf
 9900,American Woman (2019),No,,500000,English,0,American Woman (2019),0,inf
 9901,Amy Schumer Growing,Yes,2019-03-19,500000,English,2019,Amy Schumer Growing,52,9615.384615384615
-9902,An Almost Perfect Scam,No,,500000,pl,0,An Almost Perfect Scam,0,inf
+9902,An Almost Perfect Scam,No,,500000,Polish,0,An Almost Perfect Scam,0,inf
 9903,An Invisible Cradle: Season 1,No,,500000,Japanese,0,An Invisible Cradle,0,inf
 9904,Anchorman: The Legend of Ron Burgundy,No,,500000,English,0,Anchorman: The Legend of Ron Burgundy,0,inf
 9905,Ang Pangarap Kong Holdap,No,,500000,English,0,Ang Pangarap Kong Holdap,0,inf
@@ -10355,7 +10355,7 @@
 9915,Arrivano i prof,No,,500000,English,0,Arrivano i prof,0,inf
 9916,Atithi Devo Bhava,No,,500000,English,0,Atithi Devo Bhava,0,inf
 9917,Australia's Ocean Odyssey: Season 1,No,,500000,English,0,Australia's Ocean Odyssey,0,inf
-9918,Awara Paagal Deewana,No,,500000,Marathi,0,Awara Paagal Deewana,0,inf
+9918,Awara Paagal Deewana,No,,500000,Hindi,0,Awara Paagal Deewana,0,inf
 9920,Baba Parasi,No,,500000,English,0,Baba Parasi,0,inf
 9928,Bamse Och Tjuvstaden,No,,500000,English,0,Bamse Och Tjuvstaden,0,inf
 9921,Babylon Berlin: Season 2,No,2018-01-30,500000,English,2018,Babylon Berlin,66,7575.757575757576
@@ -10489,7 +10489,7 @@
 10049,Everything But a Man,No,,500000,English,0,Everything But a Man,0,inf
 10050,Exists,No,,500000,English,0,Exists,0,inf
 10051,Exit,No,,500000,Korean,0,Exit,0,inf
-10052,Exorcist: Season 1,No,2019-12-21,500000,pl,2019,Exorcist,43,11627.906976744185
+10052,Exorcist: Season 1,No,2019-12-21,500000,Polish,2019,Exorcist,43,11627.906976744185
 10053,Eyyvah Eyyvah 3,No,,500000,Indonesian,0,Eyyvah Eyyvah 3,0,inf
 10076,Get Lucky,No,,500000,German,0,Get Lucky,0,inf
 10054,Fall for you: Season 1,No,,500000,Korean,0,Fall for you,0,inf
@@ -10672,7 +10672,7 @@
 10951,Me Always You,No,,400000,Thai,0,Me Always You,0,inf
 10952,Memoir of a Murderer,No,,400000,Korean,0,Memoir of a Murderer,0,inf
 10953,Memories,No,,400000,French,0,Memories,0,inf
-10955,Memories of Love,No,,400000,zh-cn,0,Memories of Love,0,inf
+10955,Memories of Love,No,,400000,Korean,0,Memories of Love,0,inf
 10967,Miss in Kiss: Season 1,No,,400000,Korean,0,Miss in Kiss,0,inf
 10956,Memory of Encaustic Tile,No,,400000,Korean,0,Memory of Encaustic Tile,0,inf
 10957,Men of Deeds,No,,400000,ro,0,Men of Deeds,0,inf
@@ -10799,7 +10799,7 @@
 11339,With Mother: Henteko Sekai Karano Dashutsu,No,,400000,Japanese,0,With Mother: Henteko Sekai Karano Dashutsu,0,inf
 11340,Woke up Like This,No,,400000,English,0,Woke up Like This,0,inf
 11341,Wolf 2039,No,,400000,Turkish,0,Wolf 2039,0,inf
-11342,Women of Mafia: Season 2,No,,400000,pl,0,Women of Mafia,0,inf
+11342,Women of Mafia: Season 2,No,,400000,Polish,0,Women of Mafia,0,inf
 11343,Won't You Be My Neighbor?,No,,400000,English,0,Won't You Be My Neighbor?,0,inf
 11345,Xingu,No,,400000,English,0,Xingu,0,inf
 11307,Un Paso Adelante: Season 5,No,,400000,English,0,Un Paso Adelante,0,inf
@@ -10908,7 +10908,7 @@
 11203,The Escort (2016),No,,400000,English,0,The Escort (2016),0,inf
 11241,The Operative (2019),No,,400000,English,0,The Operative (2019),0,inf
 11242,The Panti Sisters,No,,400000,English,0,The Panti Sisters,0,inf
-11243,The Patriarch,No,,400000,Slovenian,0,The Patriarch,0,inf
+11243,The Patriarch,No,,400000,Spanish,0,The Patriarch,0,inf
 11244,The Photographer: Murder in Pinamar,Yes,2022-05-19,400000,Spanish,2022,The Photographer: Murder in Pinamar,14,28571.428571428572
 11245,The Post,No,,400000,English,0,The Post,0,inf
 11246,The Precious Memory of Gogo Brothers 2,No,,400000,Korean,0,The Precious Memory of Gogo Brothers 2,0,inf
@@ -11293,8 +11293,8 @@
 10747,Europe's Most Dangerous Man: Otto Skorzeny in Spain,Yes,,400000,Spanish,0,Europe's Most Dangerous Man: Otto Skorzeny in Spain,0,inf
 10749,Everything About Her,Yes,,400000,English,0,Everything About Her,0,inf
 10761,Fantastica (2018),No,,400000,English,0,Fantastica (2018),0,inf
-10750,Exorcist: Season 2,No,2019-12-21,400000,pl,2019,Exorcist,43,9302.32558139535
-10751,Exorcist: Season 3,No,2019-12-21,400000,pl,2019,Exorcist,43,9302.32558139535
+10750,Exorcist: Season 2,No,2019-12-21,400000,Polish,2019,Exorcist,43,9302.32558139535
+10751,Exorcist: Season 3,No,2019-12-21,400000,Polish,2019,Exorcist,43,9302.32558139535
 10752,Extremis,Yes,2016-09-13,400000,English,2016,Extremis,83,4819.277108433735
 10753,Eyeshield 21: Tokyo Tournament (Spring) -Death March,No,,400000,Spanish,0,Eyeshield 21: Tokyo Tournament (Spring) -Death March,0,inf
 10754,F.R.E.D.I.,No,,400000,English,0,F.R.E.D.I.,0,inf
@@ -11460,7 +11460,7 @@
 12205,Stomp the Yard,No,,300000,English,0,Stomp the Yard,0,inf
 12204,Stolen Identity,No,,300000,Japanese,0,Stolen Identity,0,inf
 12183,Snowpiercer (2013),No,,300000,English,0,Snowpiercer (2013),0,inf
-12181,Sluzby specjalne: Season 1,No,,300000,pl,0,Sluzby specjalne,0,inf
+12181,Sluzby specjalne: Season 1,No,,300000,Polish,0,Sluzby specjalne,0,inf
 12147,Ryan Hamilton: Happy Face,Yes,2017-08-29,300000,English,2017,Ryan Hamilton: Happy Face,71,4225.352112676056
 12155,SeaChange: Season 1,No,,300000,English,0,SeaChange,0,inf
 12161,Sekigahara,No,,300000,Japanese,0,Sekigahara,0,inf
@@ -11551,7 +11551,7 @@
 12218,Super Wings: Season 6,No,,300000,English,0,Super Wings,0,inf
 11945,Middleditch & Schwartz: Limited Series,Yes,2020-04-21,300000,English,2020,Middleditch & Schwartz: Limited Series,39,7692.307692307692
 11947,Mike Birbiglia: Thank God for Jokes,Yes,2017-02-28,300000,English,2017,Mike Birbiglia: Thank God for Jokes,77,3896.103896103896
-11963,Mom or Dad?,No,,300000,Italian,0,Mom or Dad?,0,inf
+11963,Mom or Dad?,No,,300000,tl,0,Mom or Dad?,0,inf
 11956,Mister Trot: Mr Trot,No,,300000,Korean,0,Mister Trot: Mr Trot,0,inf
 11962,Mohammed Ali Road: Season 1,No,,300000,ar,0,Mohammed Ali Road,0,inf
 11961,Mohamed Hussein,No,,300000,ar,0,Mohamed Hussein,0,inf
@@ -11845,7 +11845,7 @@
 12252,The Berlin File,No,,300000,Korean,0,The Berlin File,0,inf
 12251,The Beautiful Lie: Season 1,No,,300000,English,0,The Beautiful Lie,0,inf
 12250,The Battle: Roar to Victory,No,,300000,Korean,0,The Battle: Roar to Victory,0,inf
-12249,The Art of Loving,Yes,,300000,pl,0,The Art of Loving,0,inf
+12249,The Art of Loving,Yes,,300000,Polish,0,The Art of Loving,0,inf
 12248,The Antique Shop,No,,300000,Thai,0,The Antique Shop,0,inf
 12247,The Adventures of Elmo in Grouchland,No,,300000,English,0,The Adventures of Elmo in Grouchland,0,inf
 12245,The Admiral: Roaring Currents,No,,300000,Korean,0,The Admiral: Roaring Currents,0,inf
@@ -11913,7 +11913,7 @@
 12307,The Island with Bear Grylls: Season 6,No,,300000,English,0,The Island with Bear Grylls,0,inf
 12309,The Journey of Flower: Season 1,No,,300000,Korean,0,The Journey of Flower,0,inf
 12325,The Match,No,2020-09-01,300000,Spanish,2020,The Match,34,8823.529411764706
-12318,The Legions,No,,300000,Italian,0,The Legions,0,inf
+12318,The Legions,No,,300000,Polish,0,The Legions,0,inf
 12324,The Marriage Escape,No,,300000,nl,0,The Marriage Escape,0,inf
 12323,The Magic Roundabout (2006),No,,300000,English,0,The Magic Roundabout (2006),0,inf
 12322,The Lost Bladesman,No,,300000,Spanish,0,The Lost Bladesman,0,inf
@@ -11966,7 +11966,7 @@
 11555,Conni: Season 2,No,,300000,English,0,Conni,0,inf
 11554,Confessions,No,,300000,zh-cn,0,Confessions,0,inf
 11534,Chaos (2005),No,,300000,English,0,Chaos (2005),0,inf
-11533,Chamatkar,No,,300000,Marathi,0,Chamatkar,0,inf
+11533,Chamatkar,No,,300000,ne,0,Chamatkar,0,inf
 11532,Center Stage,No,,300000,English,0,Center Stage,0,inf
 11506,"Bon Cop, Bad Cop",Yes,,300000,English,0,"Bon Cop, Bad Cop",0,inf
 11512,Boy (2010),No,,300000,English,0,Boy (2010),0,inf
@@ -11990,8 +11990,8 @@
 11530,Cells at Work!! (2018),No,,300000,Spanish,0,Cells at Work!! (2018),0,inf
 11529,Celebrity Ex on the Beach: Season 1,No,,300000,English,0,Celebrity Ex on the Beach,0,inf
 11528,Cat and Dog,No,,300000,Italian,0,Cat and Dog,0,inf
-11527,Career Girl,No,,300000,pl,0,Career Girl,0,inf
-11526,Capt'n Sharky,No,,300000,Swedish,0,Capt'n Sharky,0,inf
+11527,Career Girl,No,,300000,Polish,0,Career Girl,0,inf
+11526,Capt'n Sharky,No,,300000,fi,0,Capt'n Sharky,0,inf
 11525,CAPITALISM: A LOVE STORY,No,,300000,English,0,CAPITALISM: A LOVE STORY,0,inf
 11523,Bölük,No,,300000,English,0,Bölük,0,inf
 11516,Break Up (1998),No,,300000,English,0,Break Up (1998),0,inf
@@ -12090,7 +12090,7 @@
 11393,A Very Special Love,No,,300000,English,0,A Very Special Love,0,inf
 11392,A Touch of Green: Season 1,No,,300000,zh-cn,0,A Touch of Green,0,inf
 11391,A StoryBots Christmas,Yes,2017-12-01,300000,English,2017,A StoryBots Christmas,68,4411.764705882353
-11390,A Romantic Comedy,Yes,,300000,Indonesian,0,A Romantic Comedy,0,inf
+11390,A Romantic Comedy,Yes,,300000,da,0,A Romantic Comedy,0,inf
 11404,Airplane!,No,,300000,English,0,Airplane!,0,inf
 11407,Akbar Birbal: Season 1,No,,300000,English,0,Akbar Birbal,0,inf
 11388,A Place Further than the Universe: Season 1,No,,300000,Spanish,0,A Place Further than the Universe,0,inf
@@ -12198,7 +12198,7 @@
 11430,Andainya Takdir,No,,300000,English,0,Andainya Takdir,0,inf
 11429,And Life Gose On: Season 1,No,,300000,Japanese,0,And Life Gose On,0,inf
 11428,Anbe Sivam,No,,300000,English,0,Anbe Sivam,0,inf
-11427,Anatomy of Evil,No,,300000,pl,0,Anatomy of Evil,0,inf
+11427,Anatomy of Evil,No,,300000,Polish,0,Anatomy of Evil,0,inf
 11441,ARASHI's Diary -Voyage-: Limited Series,Yes,2019-12-31,300000,English,2019,ARASHI's Diary -Voyage-: Limited Series,43,6976.7441860465115
 11443,Armed and Deadly: Police UK Season 1,No,,300000,English,0,Armed and Deadly: Police UK Season 1,0,inf
 11459,Bad Education,No,,300000,Spanish,0,Bad Education,0,inf
@@ -12410,7 +12410,7 @@
 11649,Entre Amis,No,,300000,English,0,Entre Amis,0,inf
 11659,Eye in the Sky (2015),No,,300000,English,0,Eye in the Sky (2015),0,inf
 11648,Enrico Piaggio - An Italian Dream,No,,300000,Italian,0,Enrico Piaggio - An Italian Dream,0,inf
-11647,English Babu Desi Mem,No,,300000,Marathi,0,English Babu Desi Mem,0,inf
+11647,English Babu Desi Mem,No,,300000,Hindi,0,English Babu Desi Mem,0,inf
 11646,Engage Kiss: Season 1,No,,300000,English,0,Engage Kiss,0,inf
 11644,Emmas Glück,No,,300000,English,0,Emmas Glück,0,inf
 11784,Il ciclone,No,,300000,English,0,Il ciclone,0,inf
@@ -12583,7 +12583,7 @@
 13701,Population 436,No,,200000,English,0,Population 436,0,inf
 13700,Popples: Season 2,Yes,2016-03-11,200000,English,2016,Popples,89,2247.191011235955
 13699,Popples: Season 1,Yes,2015-10-30,200000,English,2015,Popples,93,2150.537634408602
-13698,Politics,No,,200000,pl,0,Politics,0,inf
+13698,Politics,No,,200000,Polish,0,Politics,0,inf
 13697,Police Story 2,No,,200000,zh-cn,0,Police Story 2,0,inf
 13696,Police Story,No,,200000,zh-cn,0,Police Story,0,inf
 13695,Pokémon the Movie: I Choose You!,No,,200000,English,0,Pokémon the Movie: I Choose You!,0,inf
@@ -12609,7 +12609,7 @@
 13736,Rake (2010): Season 4,No,,200000,English,0,Rake (2010),0,inf
 13734,Rake (2010): Season 2,No,,200000,English,0,Rake (2010),0,inf
 13721,Psycho (2020),No,,200000,English,0,Psycho (2020),0,inf
-13733,Rage,No,,200000,Korean,0,Rage,0,inf
+13733,Rage,No,,200000,Japanese,0,Rage,0,inf
 13732,Rafters,No,,200000,sk,0,Rafters,0,inf
 13731,Racetime!,No,,200000,English,0,Racetime!,0,inf
 13730,R-Point,No,,200000,Korean,0,R-Point,0,inf
@@ -12680,7 +12680,7 @@
 13904,"Strip Down, Rise Up",Yes,2021-02-05,200000,English,2021,"Strip Down, Rise Up",29,6896.551724137931
 13903,Strangeways Here We Come,No,,200000,English,0,Strangeways Here We Come,0,inf
 13902,Stormforce,No,,200000,German,0,Stormforce,0,inf
-13901,Stones for the Rampart,No,,200000,pl,0,Stones for the Rampart,0,inf
+13901,Stones for the Rampart,No,,200000,Polish,0,Stones for the Rampart,0,inf
 13869,Something Borrowed,No,,200000,English,0,Something Borrowed,0,inf
 13868,Someday in Heaven,No,,200000,Spanish,0,Someday in Heaven,0,inf
 13867,Sofía Niño de Rivera: Selección Natural,No,2018-03-30,200000,English,2018,Sofía Niño de Rivera: Selección Natural,64,3125.0
@@ -12692,7 +12692,7 @@
 13832,Seven Years of Night,No,,200000,Korean,0,Seven Years of Night,0,inf
 13831,Seven Psychopaths,No,,200000,English,0,Seven Psychopaths,0,inf
 13830,Seven (Telugu) (2019),No,,200000,English,0,Seven (Telugu) (2019),0,inf
-13829,Servants of War,No,,200000,pl,0,Servants of War,0,inf
+13829,Servants of War,No,,200000,Polish,0,Servants of War,0,inf
 13828,Serial Cook,No,,200000,Spanish,0,Serial Cook,0,inf
 13827,Serial (Bad) Weddings,No,,200000,French,0,Serial (Bad) Weddings,0,inf
 13826,Sergio & Gasten: Limited Series,No,2022-06-10,200000,German,2022,Sergio & Gasten: Limited Series,13,15384.615384615385
@@ -12703,7 +12703,7 @@
 13821,"See No Evil, Hear No Evil",No,,200000,English,0,"See No Evil, Hear No Evil",0,inf
 13820,See How They Run,No,,200000,Thai,0,See How They Run,0,inf
 13819,See for Me,No,2022-04-12,200000,English,2022,See for Me,15,13333.333333333334
-13818,Secret Wars,No,,200000,pl,0,Secret Wars,0,inf
+13818,Secret Wars,No,,200000,Polish,0,Secret Wars,0,inf
 13817,Secret Sunshine,No,,200000,Korean,0,Secret Sunshine,0,inf
 13816,Secret Romance: Season 1,No,,200000,Korean,0,Secret Romance,0,inf
 13815,Secret,No,,200000,Korean,0,Secret,0,inf
@@ -12749,7 +12749,7 @@
 13536,My Dear Enemy,No,,200000,Korean,0,My Dear Enemy,0,inf
 13535,My Dead Ex: Season 1,No,,200000,English,0,My Dead Ex,0,inf
 13534,My Dad's on Death Row,No,,200000,English,0,My Dad's on Death Row,0,inf
-13533,My Bride,No,,200000,fa,0,My Bride,0,inf
+13533,My Bride,No,,200000,ar,0,My Bride,0,inf
 13532,"My Boss, My Teacher",No,,200000,Korean,0,"My Boss, My Teacher",0,inf
 13531,My Big Fat Greek Wedding 2,No,,200000,English,0,My Big Fat Greek Wedding 2,0,inf
 13530,My Best Friend's Breakfast,No,,200000,zh-cn,0,My Best Friend's Breakfast,0,inf
@@ -12998,7 +12998,7 @@
 14238,Transformers: Cyberverse: Season 4,No,,200000,English,0,Transformers: Cyberverse,0,inf
 14237,Trainwreck (2015),No,,200000,English,0,Trainwreck (2015),0,inf
 14236,Trailer Park Boys: Xmas Special,Yes,,200000,English,0,Trailer Park Boys: Xmas Special,0,inf
-14235,Traffic Department,No,,200000,pl,0,Traffic Department,0,inf
+14235,Traffic Department,No,,200000,Polish,0,Traffic Department,0,inf
 14234,Tower of God: Season 1,No,,200000,English,0,Tower of God,0,inf
 14233,Tout nous sépare,No,,200000,English,0,Tout nous sépare,0,inf
 14232,Touching the Void,No,,200000,English,0,Touching the Void,0,inf
@@ -13076,7 +13076,7 @@
 14220,Tiramisu,No,,200000,et,0,Tiramisu,0,inf
 14219,Tip the Mouse: Season 2,No,,200000,English,0,Tip the Mouse,0,inf
 14218,Tina,No,,200000,English,0,Tina,0,inf
-14217,Time to Dance,No,,200000,Hindi,0,Time to Dance,0,inf
+14217,Time to Dance,No,,200000,Marathi,0,Time to Dance,0,inf
 14216,Tig Notaro Happy To Be Here,Yes,2018-05-22,200000,English,2018,Tig Notaro Happy To Be Here,62,3225.8064516129034
 14215,Thug Life (2017),No,,200000,English,0,Thug Life (2017),0,inf
 14213,Three Wishes for Cinderella,No,,200000,Spanish,0,Three Wishes for Cinderella,0,inf
@@ -13110,14 +13110,14 @@
 14364,World War A: Aliens Invade Earth,No,,200000,German,0,World War A: Aliens Invade Earth,0,inf
 14363,Woozle and Pip in Search of the Scallywagger!,No,,200000,Spanish,0,Woozle and Pip in Search of the Scallywagger!,0,inf
 14362,Wonderful Nightmare,No,,200000,Korean,0,Wonderful Nightmare,0,inf
-14361,Wonder Boy,No,2021-06-26,200000,af,2021,Wonder Boy,24,8333.333333333334
+14361,Wonder Boy,No,2021-06-26,200000,French,2021,Wonder Boy,24,8333.333333333334
 14360,Women on the Verge of a Nervous Breakdown,No,,200000,Spanish,0,Women on the Verge of a Nervous Breakdown,0,inf
 14358,Wolf Creek (2005),No,,200000,English,0,Wolf Creek (2005),0,inf
 14344,Who Likes My Follower?: Season 1,Yes,2022-09-08,200000,English,2022,Who Likes My Follower?,10,20000.0
 14357,Wolf,No,,200000,Turkish,0,Wolf,0,inf
 14356,Wish You Were Here (2012),No,,200000,English,0,Wish You Were Here (2012),0,inf
 14355,Winter on Fire: Ukraine's Fight for Freedom,Yes,2015-10-09,200000,English,2015,Winter on Fire: Ukraine's Fight for Freedom,94,2127.659574468085
-14354,Winter Dream,No,,200000,pl,0,Winter Dream,0,inf
+14354,Winter Dream,No,,200000,Polish,0,Winter Dream,0,inf
 14353,Winchester,No,,200000,English,0,Winchester,0,inf
 14352,Will You Marry,Yes,,200000,English,0,Will You Marry,0,inf
 14351,Wild Wild West,No,,200000,English,0,Wild Wild West,0,inf
@@ -13224,7 +13224,7 @@
 14011,The Chaser,No,,200000,Korean,0,The Chaser,0,inf
 14010,The Chambermaid,No,,200000,Slovenian,0,The Chambermaid,0,inf
 14009,The Case Study of Vanitas: Season 1,No,,200000,Japanese,0,The Case Study of Vanitas,0,inf
-14008,The Camp,No,,200000,so,0,The Camp,0,inf
+14008,The Camp,No,,200000,Indonesian,0,The Camp,0,inf
 14007,The Calm Beyond,No,,200000,English,0,The Calm Beyond,0,inf
 14006,The Butterfly's Dream,Yes,,200000,Spanish,0,The Butterfly's Dream,0,inf
 14005,The Butler,No,,200000,da,0,The Butler,0,inf
@@ -13286,7 +13286,7 @@
 13950,Terrace House: 27th WEEK～,No,,200000,Japanese,0,Terrace House: 27th WEEK～,0,inf
 13949,Terrace House: 14th WEEK～,No,,200000,Japanese,0,Terrace House: 14th WEEK～,0,inf
 13948,Terrace House: 1st WEEK～,No,,200000,Japanese,0,Terrace House: 1st WEEK～,0,inf
-13947,Teiichi: Battle of Supreme High,No,,200000,zh-tw,0,Teiichi: Battle of Supreme High,0,inf
+13947,Teiichi: Battle of Supreme High,No,,200000,Japanese,0,Teiichi: Battle of Supreme High,0,inf
 13946,Teenage Mutant Ninja Turtles (2012): Season 4,No,,200000,English,0,Teenage Mutant Ninja Turtles (2012),0,inf
 13945,Teen Mom 2: Season 4,No,,200000,English,0,Teen Mom 2,0,inf
 13944,Tee Shot: Ariya Jutanugarn,Yes,,200000,Thai,0,Tee Shot: Ariya Jutanugarn,0,inf
@@ -13347,14 +13347,14 @@
 14126,The Nightsiren,No,,200000,Slovenian,0,The Nightsiren,0,inf
 14125,The Nightingale (2018),No,,200000,English,0,The Nightingale (2018),0,inf
 14124,The New Prince of Tennis: U-17 World Cup,No,,200000,Japanese,0,The New Prince of Tennis: U-17 World Cup,0,inf
-14123,The New One: Season 1,No,,200000,uk,0,The New One,0,inf
+14123,The New One: Season 1,No,,200000,ru,0,The New One,0,inf
 14122,The Natural,No,,200000,English,0,The Natural,0,inf
 14120,The Most Difficult Romance: Season 1,No,,200000,Japanese,0,The Most Difficult Romance,0,inf
 14106,The Lost Son,No,,200000,English,0,The Lost Son,0,inf
 14119,The Mole Song: Undercover Agent Reiji,No,,200000,Japanese,0,The Mole Song: Undercover Agent Reiji,0,inf
 14118,The Mole (2001): Season 4,No,,200000,English,0,The Mole (2001),0,inf
 14117,The Millions,No,,200000,English,0,The Millions,0,inf
-14116,The Method of Repulsing the Dove,No,,200000,Korean,0,The Method of Repulsing the Dove,0,inf
+14116,The Method of Repulsing the Dove,No,,200000,Japanese,0,The Method of Repulsing the Dove,0,inf
 14115,The Method,No,,200000,Spanish,0,The Method,0,inf
 14114,The Men Who Stare at Goats,No,,200000,English,0,The Men Who Stare at Goats,0,inf
 14113,The Many Faces of Ito: Season 1,Yes,2017-08-23,200000,Japanese,2017,The Many Faces of Ito,71,2816.9014084507044
@@ -13538,7 +13538,7 @@
 12748,Capone (2020),No,,200000,English,0,Capone (2020),0,inf
 12747,Can’t Write!? ～A Life Without Scenario～: Season 1,No,,200000,Japanese,0,Can’t Write!? ～A Life Without Scenario～,0,inf
 12746,Canvas,Yes,2020-12-11,200000,English,2020,Canvas,31,6451.612903225807
-12745,Can You Hear Me?: Season 2,Yes,2020-11-02,200000,nl,2020,Can You Hear Me?,32,6250.0
+12745,Can You Hear Me?: Season 2,Yes,2020-11-02,200000,French,2020,Can You Hear Me?,32,6250.0
 12744,Camp Sawi,No,,200000,English,0,Camp Sawi,0,inf
 12743,Camp Confidential: America's Secret Nazis,Yes,2021-11-02,200000,English,2021,Camp Confidential: America's Secret Nazis,20,10000.0
 12769,Chaguo,No,,200000,English,0,Chaguo,0,inf
@@ -13582,7 +13582,7 @@
 12941,Endangered Species (2021),No,,200000,English,0,Endangered Species (2021),0,inf
 12940,Encounters: Season 1,No,,200000,English,0,Encounters,0,inf
 12939,En el nombre de ellas: Season 1,No,,200000,English,0,En el nombre de ellas,0,inf
-12938,Em Prova: Amiga do Inimigo,No,,200000,so,0,Em Prova: Amiga do Inimigo,0,inf
+12938,Em Prova: Amiga do Inimigo,No,,200000,tl,0,Em Prova: Amiga do Inimigo,0,inf
 12937,Elvira I Will Give You My Life but I'm Using It,No,,200000,Spanish,0,Elvira I Will Give You My Life but I'm Using It,0,inf
 12936,Elon Musk: The Real Life Iron Man,No,,200000,English,0,Elon Musk: The Real Life Iron Man,0,inf
 12935,Elise (2019),No,,200000,English,0,Elise (2019),0,inf
@@ -13639,7 +13639,7 @@
 12885,Dhh,No,,200000,English,0,Dhh,0,inf
 12884,Dhan Dhana Dhan Goal,No,,200000,ne,0,Dhan Dhana Dhan Goal,0,inf
 12883,Dewi: Season 1,No,,200000,English,0,Dewi,0,inf
-12882,Detective Chinatown 3,No,,200000,Korean,0,Detective Chinatown 3,0,inf
+12882,Detective Chinatown 3,No,,200000,zh-cn,0,Detective Chinatown 3,0,inf
 12881,Detective Chinatown,No,,200000,zh-cn,0,Detective Chinatown,0,inf
 12880,Dessau Dancers,No,,200000,English,0,Dessau Dancers,0,inf
 12879,Derren Brown: Miracle,Yes,2018-06-22,200000,English,2018,Derren Brown: Miracle,61,3278.688524590164
@@ -13790,7 +13790,7 @@
 12555,Aapla Manus,No,,200000,English,0,Aapla Manus,0,inf
 12554,A Whole Lifetime with Jamie Demetriou,Yes,2023-02-28,200000,English,2023,A Whole Lifetime with Jamie Demetriou,4,50000.0
 12553,A Turtle's Tale: Sammy's Adventures,No,,200000,English,0,A Turtle's Tale: Sammy's Adventures,0,inf
-12552,A Star Shoots Across the Sky,No,,200000,English,0,A Star Shoots Across the Sky,0,inf
+12552,A Star Shoots Across the Sky,No,,200000,Indonesian,0,A Star Shoots Across the Sky,0,inf
 12551,A Special Lady,No,,200000,Spanish,0,A Special Lady,0,inf
 12550,A Sort of Family,No,,200000,Spanish,0,A Sort of Family,0,inf
 12549,A Short History of the Moors,No,,200000,English,0,A Short History of the Moors,0,inf
@@ -13922,7 +13922,7 @@
 12660,bananaman live / bananaman live: 2019-2013,No,,200000,Japanese,0,bananaman live / bananaman live: 2019-2013,0,inf
 12659,Ballermann 6,No,,200000,English,0,Ballermann 6,0,inf
 12658,Bakit Lahat Ng Gwapo May Boyfriend?,No,,200000,English,0,Bakit Lahat Ng Gwapo May Boyfriend?,0,inf
-12657,Bad Luck Good Love,No,,200000,pl,0,Bad Luck Good Love,0,inf
+12657,Bad Luck Good Love,No,,200000,Polish,0,Bad Luck Good Love,0,inf
 12656,Bad Day,No,,200000,English,0,Bad Day,0,inf
 12655,Baby Mamas,No,,200000,English,0,Baby Mamas,0,inf
 12654,Babies (2010),No,,200000,English,0,Babies (2010),0,inf
@@ -13944,7 +13944,7 @@
 13290,Keif Tasmaoni Ajib,No,,200000,ar,0,Keif Tasmaoni Ajib,0,inf
 13288,Kedibone,No,,200000,English,0,Kedibone,0,inf
 13303,Kingdom of Us,Yes,2017-10-13,200000,English,2017,Kingdom of Us,70,2857.1428571428573
-13287,Kayko and Kokosh: Season 2,Yes,2021-11-17,200000,pl,2021,Kayko and Kokosh,20,10000.0
+13287,Kayko and Kokosh: Season 2,Yes,2021-11-17,200000,Polish,2021,Kayko and Kokosh,20,10000.0
 13286,Katinka,No,,200000,English,0,Katinka,0,inf
 13285,Katherine Ryan: In Trouble,Yes,2017-02-14,200000,English,2017,Katherine Ryan: In Trouble,78,2564.102564102564
 13284,Kath and Kim: The Souvenir Editions,No,,200000,English,0,Kath and Kim: The Souvenir Editions,0,inf
@@ -13997,8 +13997,8 @@
 13238,It’s Your Fault That My Heart Beats,No,,200000,Japanese,0,It’s Your Fault That My Heart Beats,0,inf
 13237,It's the Law,No,,200000,Spanish,0,It's the Law,0,inf
 13236,It's Only the End of the World,No,,200000,Spanish,0,It's Only the End of the World,0,inf
-13235,It's Now or Never,No,,200000,Portuguese,0,It's Now or Never,0,inf
-13234,It's in the Bank,No,,200000,pl,0,It's in the Bank,0,inf
+13235,It's Now or Never,No,,200000,Spanish,0,It's Now or Never,0,inf
+13234,It's in the Bank,No,,200000,Polish,0,It's in the Bank,0,inf
 13233,It's Her Day,No,,200000,English,0,It's Her Day,0,inf
 13232,It May Be Love But It Doesn't Show,No,,200000,Italian,0,It May Be Love But It Doesn't Show,0,inf
 13231,It Feels So Good,No,,200000,Spanish,0,It Feels So Good,0,inf
@@ -14014,7 +14014,7 @@
 13221,Investors,No,,200000,ro,0,Investors,0,inf
 13220,Inuyashiki,No,,200000,Japanese,0,Inuyashiki,0,inf
 13219,InuYasha the Movie: Affections Touching Across Time,No,,200000,Japanese,0,InuYasha the Movie: Affections Touching Across Time,0,inf
-13218,InuYasha the Movie 3: Swords of an Honorable Ruler,No,,200000,zh-tw,0,InuYasha the Movie 3: Swords of an Honorable Ruler,0,inf
+13218,InuYasha the Movie 3: Swords of an Honorable Ruler,No,,200000,Korean,0,InuYasha the Movie 3: Swords of an Honorable Ruler,0,inf
 13217,InuYasha the Movie 2: The Castle Beyond the Looking Glass,No,,200000,Spanish,0,InuYasha the Movie 2: The Castle Beyond the Looking Glass,0,inf
 13243,Jeans (1998),No,,200000,English,0,Jeans (1998),0,inf
 13244,Jerry Before Seinfeld,Yes,2017-09-19,200000,English,2017,Jerry Before Seinfeld,70,2857.1428571428573
@@ -14124,7 +14124,7 @@
 13349,Lethal Weapon 2,No,,200000,English,0,Lethal Weapon 2,0,inf
 13392,Love the Way U Lie,No,2020-08-19,200000,English,2020,Love the Way U Lie,35,5714.285714285715
 13348,"Let's Tie The Knot, Honey!",No,,200000,Portuguese,0,"Let's Tie The Knot, Honey!",0,inf
-13347,Let's Make a Grandson,No,,200000,pl,0,Let's Make a Grandson,0,inf
+13347,Let's Make a Grandson,No,,200000,Polish,0,Let's Make a Grandson,0,inf
 13346,Let's Go! GALAXY GUARDS: Season 1,No,,200000,Spanish,0,Let's Go! GALAXY GUARDS,0,inf
 13345,Let the Bullets Fly,No,,200000,Korean,0,Let the Bullets Fly,0,inf
 13344,Lesson of the Evil,No,,200000,Japanese,0,Lesson of the Evil,0,inf
@@ -14143,7 +14143,7 @@
 13390,Love on Delivery,No,,200000,Spanish,0,Love on Delivery,0,inf
 13389,Love Like the Falling Rain,Yes,2020-10-15,200000,Indonesian,2020,Love Like the Falling Rain,33,6060.606060606061
 13388,Love Island USA: Season 3,No,,200000,English,0,Love Island USA,0,inf
-13387,Love Is Nearby,No,,200000,pl,0,Love Is Nearby,0,inf
+13387,Love Is Nearby,No,,200000,Polish,0,Love Is Nearby,0,inf
 13386,Love Is Blind (2016),No,,200000,English,0,Love Is Blind (2016),0,inf
 13385,Love Forecast,No,,200000,Korean,0,Love Forecast,0,inf
 13384,Love for Sale: Suely in the Sky,No,,200000,Spanish,0,Love for Sale: Suely in the Sky,0,inf
@@ -14193,7 +14193,7 @@
 13044,Gegege no Kitaro 6: Season 2,No,,200000,Japanese,0,Gegege no Kitaro 6,0,inf
 13043,Geez & Ann,Yes,2021-02-25,200000,English,2021,Geez & Ann,28,7142.857142857143
 13042,Gattaca,No,,200000,English,0,Gattaca,0,inf
-13040,Gantz II: Perfect Answer,No,,200000,tl,0,Gantz II: Perfect Answer,0,inf
+13040,Gantz II: Perfect Answer,No,,200000,German,0,Gantz II: Perfect Answer,0,inf
 13067,God of Gamblers III: Back to Shanghai,No,,200000,Korean,0,God of Gamblers III: Back to Shanghai,0,inf
 13069,God's Little Village,No,,200000,Spanish,0,God's Little Village,0,inf
 13098,Gülen Gözler,No,,200000,English,0,Gülen Gözler,0,inf
@@ -14286,7 +14286,7 @@
 13097,Güeros,No,,200000,English,0,Güeros,0,inf
 13041,Gate,No,,200000,Korean,0,Gate,0,inf
 13099,Gülşah,No,,200000,English,0,Gülşah,0,inf
-13171,Hug me: Season 1,No,,200000,pl,0,Hug me,0,inf
+13171,Hug me: Season 1,No,,200000,ro,0,Hug me,0,inf
 13183,I See You: Season 1,No,,200000,Thai,0,I See You,0,inf
 13182,I Love You to Death (2016),No,,200000,English,0,I Love You to Death (2016),0,inf
 13181,I Have a Script: Season 1,No,,200000,ar,0,I Have a Script,0,inf
@@ -14338,7 +14338,7 @@
 13194,Ice Fantasy: Season 1,No,,200000,Korean,0,Ice Fantasy,0,inf
 13193,I'm Underage But I'm Not a Child,No,,200000,Japanese,0,I'm Underage But I'm Not a Child,0,inf
 13192,I'm Standing on a Million Lives: Season 2,No,,200000,Japanese,0,I'm Standing on a Million Lives,0,inf
-13191,I'm Off Then,No,,200000,German,0,I'm Off Then,0,inf
+13191,I'm Off Then,No,,200000,so,0,I'm Off Then,0,inf
 13190,I'm Home: Season 1,No,,200000,Japanese,0,I'm Home,0,inf
 13189,I'll Follow You Down,No,,200000,English,0,I'll Follow You Down,0,inf
 13188,I Will Do It In the Next Life: Season 2,No,,200000,Japanese,0,I Will Do It In the Next Life,0,inf
@@ -14494,7 +14494,7 @@
 16965,Roba da ricchi,No,,100000,English,0,Roba da ricchi,0,inf
 16966,Robert and the Toymaker,No,,100000,English,0,Robert and the Toymaker,0,inf
 16967,Robin Hood: Men in Tights,No,,100000,English,0,Robin Hood: Men in Tights,0,inf
-16968,"Rodrigo Sant'Anna: I'm Here, I'm Queer!",Yes,2022-05-19,100000,Portuguese,2022,"Rodrigo Sant'Anna: I'm Here, I'm Queer!",14,7142.857142857143
+16968,"Rodrigo Sant'Anna: I'm Here, I'm Queer!",Yes,2022-05-19,100000,Catalan,2022,"Rodrigo Sant'Anna: I'm Here, I'm Queer!",14,7142.857142857143
 16969,Roger Waters: Us + Them,No,,100000,English,0,Roger Waters: Us + Them,0,inf
 16970,Rolling Stone: Life and Death of Brian Jones,No,,100000,English,0,Rolling Stone: Life and Death of Brian Jones,0,inf
 16971,Rom,No,,100000,Catalan,0,Rom,0,inf
@@ -14534,7 +14534,7 @@
 16827,Pokot,No,,100000,English,0,Pokot,0,inf
 16829,Pokémon the Movie: The Power of Us,No,,100000,English,0,Pokémon the Movie: The Power of Us,0,inf
 16814,Plans for Tomorrow,No,,100000,Spanish,0,Plans for Tomorrow,0,inf
-16830,Policeman and Me,No,,100000,Indonesian,0,Policeman and Me,0,inf
+16830,Policeman and Me,No,,100000,Japanese,0,Policeman and Me,0,inf
 16831,Poltergeist (2015),No,,100000,English,0,Poltergeist (2015),0,inf
 16832,Poltergeist Activity,No,,100000,English,0,Poltergeist Activity,0,inf
 16833,Pompo: The Cinephile,No,,100000,Japanese,0,Pompo: The Cinephile,0,inf
@@ -14599,7 +14599,7 @@
 16891,Rabbit-Proof Fence,No,,100000,English,0,Rabbit-Proof Fence,0,inf
 16892,Rabid: Season 1,No,,100000,English,0,Rabid,0,inf
 16893,Rafinha Bastos: Ultimatum,Yes,2018-09-21,100000,Portuguese,2018,Rafinha Bastos: Ultimatum,58,1724.1379310344828
-16894,Railroad Tigers,No,,100000,Korean,0,Railroad Tigers,0,inf
+16894,Railroad Tigers,No,,100000,zh-cn,0,Railroad Tigers,0,inf
 16895,Ralphie May: Imperfectly Yours,No,,100000,English,0,Ralphie May: Imperfectly Yours,0,inf
 16896,Ramayya Vasthavayya,No,,100000,English,0,Ramayya Vasthavayya,0,inf
 16897,Rambo III,No,,100000,English,0,Rambo III,0,inf
@@ -14657,7 +14657,7 @@
 17188,Sons of the Caliphate: Season 1,No,,100000,English,0,Sons of the Caliphate,0,inf
 17189,Soof,No,,100000,English,0,Soof,0,inf
 17190,Soof 2,No,,100000,English,0,Soof 2,0,inf
-17191,Sophie Seeks 7,No,,100000,pl,0,Sophie Seeks 7,0,inf
+17191,Sophie Seeks 7,No,,100000,Polish,0,Sophie Seeks 7,0,inf
 17192,Sophie's Choice,No,,100000,English,0,Sophie's Choice,0,inf
 17193,Sorry We Are Screwed!,No,,100000,ar,0,Sorry We Are Screwed!,0,inf
 17194,Soul (2017),No,,100000,English,0,Soul (2017),0,inf
@@ -14693,7 +14693,7 @@
 17164,Sniff the Dog Catch the Thief,No,,100000,Spanish,0,Sniff the Dog Catch the Thief,0,inf
 17165,Sniper 3,No,,100000,English,0,Sniper 3,0,inf
 17166,SNL Arabia: Season 3,No,,100000,ar,0,SNL Arabia,0,inf
-17167,Snow Flower,No,,100000,Japanese,0,Snow Flower,0,inf
+17167,Snow Flower,No,,100000,Korean,0,Snow Flower,0,inf
 17168,So Help Me God,No,,100000,Spanish,0,So Help Me God,0,inf
 17199,Sound! Euphonium The Movie-Our Promise: A Brand New Day-,No,,100000,Japanese,0,Sound! Euphonium The Movie-Our Promise: A Brand New Day-,0,inf
 17201,Spaceship Earth,No,,100000,English,0,Spaceship Earth,0,inf
@@ -14751,7 +14751,7 @@
 17222,Star: Season 1,No,,100000,English,0,Star,0,inf
 17223,Star Trek (2009),No,,100000,English,0,Star Trek (2009),0,inf
 17224,Star Trek: The Animated Series: Season 2,No,,100000,English,0,Star Trek: The Animated Series,0,inf
-17225,Stars,No,,100000,pl,0,Stars,0,inf
+17225,Stars,No,,100000,Polish,0,Stars,0,inf
 17226,Status: It's Complicated!,No,,100000,English,0,Status: It's Complicated!,0,inf
 17227,Stay Away From Me,No,,100000,Indonesian,0,Stay Away From Me,0,inf
 17228,Stay on Board: The Leo Baker Story,Yes,2022-08-11,100000,English,2022,Stay on Board: The Leo Baker Story,11,9090.90909090909
@@ -14790,7 +14790,7 @@
 17139,Singapore Dreaming,No,,100000,Korean,0,Singapore Dreaming,0,inf
 17036,Satria Heroes: Revenge of the Darkness,Yes,,100000,English,0,Satria Heroes: Revenge of the Darkness,0,inf
 17024,Samjin Company English Class,No,,100000,Spanish,0,Samjin Company English Class,0,inf
-17025,Samotność w sieci,No,,100000,pl,0,Samotność w sieci,0,inf
+17025,Samotność w sieci,No,,100000,Polish,0,Samotność w sieci,0,inf
 17026,Samurai's Promise,No,,100000,Japanese,0,Samurai's Promise,0,inf
 17027,Sangkar,No,,100000,English,0,Sangkar,0,inf
 17028,Sangkuriang,No,,100000,English,0,Sangkuriang,0,inf
@@ -14865,7 +14865,7 @@
 17097,Shaolin,No,,100000,Korean,0,Shaolin,0,inf
 17098,Sharks (2013),No,,100000,English,0,Sharks (2013),0,inf
 17099,Sharks: Monster Of The Media,No,,100000,English,0,Sharks: Monster Of The Media,0,inf
-17100,"She Remembers, He Forgets",No,,100000,zh-tw,0,"She Remembers, He Forgets",0,inf
+17100,"She Remembers, He Forgets",No,,100000,Korean,0,"She Remembers, He Forgets",0,inf
 17101,She's Gotta Have It (1986),Yes,,100000,English,0,She's Gotta Have It (1986),0,inf
 17102,She's Out of My League,No,,100000,English,0,She's Out of My League,0,inf
 17103,Shibil,No,,100000,mk,0,Shibil,0,inf
@@ -14986,7 +14986,7 @@
 16503,My Awkward Sexual Adventure,No,,100000,English,0,My Awkward Sexual Adventure,0,inf
 16504,My Beautiful Broken Brain,Yes,2016-03-18,100000,English,2016,My Beautiful Broken Brain,89,1123.5955056179776
 16505,My Best Friend's Girlfriend,No,,100000,English,0,My Best Friend's Girlfriend,0,inf
-16506,My Best Summer,No,,100000,Korean,0,My Best Summer,0,inf
+16506,My Best Summer,No,,100000,zh-tw,0,My Best Summer,0,inf
 16507,My Big Night,No,,100000,German,0,My Big Night,0,inf
 16508,My Birthday Song,No,,100000,English,0,My Birthday Song,0,inf
 16509,My Blood & Bones in a flowing Galaxy,No,,100000,Spanish,0,My Blood & Bones in a flowing Galaxy,0,inf
@@ -15039,7 +15039,7 @@
 16317,Maria Mariana,No,,100000,English,0,Maria Mariana,0,inf
 16318,Marianne & Leonard: Words of Love,No,,100000,English,0,Marianne & Leonard: Words of Love,0,inf
 16319,Marighella (2012),No,,100000,English,0,Marighella (2012),0,inf
-16320,Marilyn's Eyes,Yes,2022-01-27,100000,Italian,2022,Marilyn's Eyes,17,5882.35294117647
+16320,Marilyn's Eyes,Yes,2022-01-27,100000,cy,2022,Marilyn's Eyes,17,5882.35294117647
 16322,Markova: Comfort Gay,No,,100000,English,0,Markova: Comfort Gay,0,inf
 16335,Mary Berry Everyday: Season 1,No,,100000,English,0,Mary Berry Everyday,0,inf
 16323,Marley,No,,100000,English,0,Marley,0,inf
@@ -15109,7 +15109,7 @@
 16387,Middle of Nowhere (2012),No,,100000,English,0,Middle of Nowhere (2012),0,inf
 16388,Midnight Family,No,,100000,Spanish,0,Midnight Family,0,inf
 16389,Midnight Run,No,,100000,English,0,Midnight Run,0,inf
-16390,Midsummer's Equation,No,,100000,Japanese,0,Midsummer's Equation,0,inf
+16390,Midsummer's Equation,No,,100000,zh-cn,0,Midsummer's Equation,0,inf
 16391,Miffo,No,,100000,English,0,Miffo,0,inf
 16392,Mighty Raju: Season 2,No,,100000,Hindi,0,Mighty Raju,0,inf
 16393,Mighty Raju: Season 3,No,,100000,Hindi,0,Mighty Raju,0,inf
@@ -15236,7 +15236,7 @@
 16664,Once and for all,No,,100000,ro,0,Once and for all,0,inf
 16547,Narco Sub,No,,100000,English,0,Narco Sub,0,inf
 16590,No Longer Human,No,,100000,Japanese,0,No Longer Human,0,inf
-16578,Night,No,,100000,ro,0,Night,0,inf
+16578,Night,No,,100000,English,0,Night,0,inf
 16579,Night of Knots,No,,100000,Turkish,0,Night of Knots,0,inf
 16580,Night of the Living Dorks,No,,100000,German,0,Night of the Living Dorks,0,inf
 16581,Night Wolf,No,,100000,English,0,Night Wolf,0,inf
@@ -15333,7 +15333,7 @@
 16612,Not Safe for Work (2014),No,,100000,English,0,Not Safe for Work (2014),0,inf
 16613,Nour (2019),No,,100000,English,0,Nour (2019),0,inf
 16614,Nove lune e mezza,No,,100000,English,0,Nove lune e mezza,0,inf
-16615,November,No,,100000,Slovenian,0,November,0,inf
+16615,November,No,,100000,Portuguese,0,November,0,inf
 16616,Nozaki Shuhei President of Bank: Season 1,No,,100000,Japanese,0,Nozaki Shuhei President of Bank,0,inf
 16617,Nuri: Season 1,No,,100000,English,0,Nuri,0,inf
 16618,Nuri: Season 3,No,,100000,English,0,Nuri,0,inf
@@ -15417,7 +15417,7 @@
 17961,Unlucky,No,,100000,ro,0,Unlucky,0,inf
 17949,Unconditional: Season 1,No,,100000,English,0,Unconditional,0,inf
 17950,Under the Bombs,No,,100000,ar,0,Under the Bombs,0,inf
-17951,Under the Stars,No,,100000,Japanese,0,Under the Stars,0,inf
+17951,Under the Stars,No,,100000,Korean,0,Under the Stars,0,inf
 17952,Underclassman,No,,100000,English,0,Underclassman,0,inf
 17953,Undercover Food Fighters: Season 1,No,,100000,Korean,0,Undercover Food Fighters,0,inf
 17954,Undertow (2018),No,,100000,English,0,Undertow (2018),0,inf
@@ -15531,11 +15531,11 @@
 17763,The Unfair,No,,100000,Korean,0,The Unfair,0,inf
 17764,The Unsettling: Season 1,No,,100000,English,0,The Unsettling,0,inf
 17765,The Vendor,No,,100000,English,0,The Vendor,0,inf
-17796,The World Is Mine,No,,100000,Portuguese,0,The World Is Mine,0,inf
+17796,The World Is Mine,No,,100000,ro,0,The World Is Mine,0,inf
 17797,The World's Most Dangerous Borders,No,,100000,English,0,The World's Most Dangerous Borders,0,inf
 17798,The World's Most Extraordinary Homes: Season 1,No,,100000,English,0,The World's Most Extraordinary Homes,0,inf
 17841,Time Renegades,No,,100000,Korean,0,Time Renegades,0,inf
-17829,Ticket to the Moon,No,,100000,pl,0,Ticket to the Moon,0,inf
+17829,Ticket to the Moon,No,,100000,Polish,0,Ticket to the Moon,0,inf
 17830,Tie Me Up! Tie Me Down!,No,,100000,Portuguese,0,Tie Me Up! Tie Me Down!,0,inf
 17831,Tiffany Haddish Presents: They Ready: Season 1,Yes,2019-08-13,100000,English,2019,Tiffany Haddish Presents: They Ready,47,2127.659574468085
 17832,Tiffany Haddish: Black Mitzvah,Yes,2019-12-03,100000,English,2019,Tiffany Haddish: Black Mitzvah,44,2272.7272727272725
@@ -15563,7 +15563,7 @@
 17854,Tokan,No,,100000,English,0,Tokan,0,inf
 17828,Thunivu (Kannada),No,,100000,English,0,Thunivu (Kannada),0,inf
 17827,Through Night and Day,No,,100000,English,0,Through Night and Day,0,inf
-17826,"Three Turkish Men, One Baby – No Idea",No,,100000,Turkish,0,"Three Turkish Men, One Baby – No Idea",0,inf
+17826,"Three Turkish Men, One Baby – No Idea",No,,100000,German,0,"Three Turkish Men, One Baby – No Idea",0,inf
 17825,Three Many Weddings,No,,100000,Spanish,0,Three Many Weddings,0,inf
 17800,The Yukon Assignment,No,,100000,English,0,The Yukon Assignment,0,inf
 17801,There's a Reason for the Love I'm Wearing: Season 1,No,,100000,Japanese,0,There's a Reason for the Love I'm Wearing,0,inf
@@ -15598,7 +15598,7 @@
 18129,Women´s Revenge,No,,100000,sk,0,Women´s Revenge,0,inf
 18130,Wonderland (2017),No,,100000,English,0,Wonderland (2017),0,inf
 18131,Wonderlus,No,,100000,English,0,Wonderlus,0,inf
-18132,Woodplum,No,,100000,af,0,Woodplum,0,inf
+18132,Woodplum,No,,100000,French,0,Woodplum,0,inf
 18133,World on Fire: Season 1,No,,100000,English,0,World on Fire,0,inf
 18134,World Trade Center,No,,100000,English,0,World Trade Center,0,inf
 18135,Wołyń,No,,100000,English,0,Wołyń,0,inf
@@ -15644,7 +15644,7 @@
 18115,Wild Venice,No,,100000,English,0,Wild Venice,0,inf
 18116,Will You Be There?,No,,100000,Korean,0,Will You Be There?,0,inf
 18117,Willy Fog: La vuelta al mundo en 80 dias,No,,100000,Spanish,0,Willy Fog: La vuelta al mundo en 80 dias,0,inf
-18118,Wind,No,,100000,hu,0,Wind,0,inf
+18118,Wind,No,,100000,Turkish,0,Wind,0,inf
 18119,Wingman (2015),No,,100000,English,0,Wingman (2015),0,inf
 18120,Winning Streak,No,,100000,Spanish,0,Winning Streak,0,inf
 18121,With Great Joy,No,,100000,nl,0,With Great Joy,0,inf
@@ -15734,7 +15734,7 @@
 18027,Wake Up: Season 2,No,,100000,Korean,0,Wake Up,0,inf
 18028,Waking up yesterday,No,,100000,Czech,0,Waking up yesterday,0,inf
 18029,Walking Vengeance,No,,100000,Spanish,0,Walking Vengeance,0,inf
-18030,Wall,No,,100000,pl,0,Wall,0,inf
+18030,Wall,No,,100000,Polish,0,Wall,0,inf
 18031,Walwal,No,,100000,English,0,Walwal,0,inf
 18032,Wander,No,,100000,English,0,Wander,0,inf
 18033,Wanita Terindah,No,,100000,English,0,Wanita Terindah,0,inf
@@ -15794,7 +15794,7 @@
 18086,When Cousins Marry,No,,100000,English,0,When Cousins Marry,0,inf
 18087,When Fortune Smiles,No,,100000,Korean,0,When Fortune Smiles,0,inf
 18088,When We Were Boys,No,,100000,French,0,When We Were Boys,0,inf
-18089,When We Were Young,No,,100000,sw,0,When We Were Young,0,inf
+18089,When We Were Young,No,,100000,vi,0,When We Were Young,0,inf
 18090,When Will You Get Married?,No,,100000,tl,0,When Will You Get Married?,0,inf
 18091,Where Got Ghost?,No,,100000,Korean,0,Where Got Ghost?,0,inf
 18092,Where Is Francis?,No,,100000,Indonesian,0,Where Is Francis?,0,inf
@@ -15850,7 +15850,7 @@
 17427,The Cursed Lesson,No,,100000,Korean,0,The Cursed Lesson,0,inf
 17428,The Dancer and the Thief,No,,100000,Spanish,0,The Dancer and the Thief,0,inf
 17429,The Dare,No,,100000,English,0,The Dare,0,inf
-17430,The Dark House,No,,100000,pl,0,The Dark House,0,inf
+17430,The Dark House,No,,100000,Polish,0,The Dark House,0,inf
 17431,The Darkest Hour,No,,100000,English,0,The Darkest Hour,0,inf
 17432,The Day After Valentine's,No,,100000,English,0,The Day After Valentine's,0,inf
 17433,The Day I Became a God,No,,100000,Japanese,0,The Day I Became a God,0,inf
@@ -15859,7 +15859,7 @@
 17436,The Deal,No,,100000,ar,0,The Deal,0,inf
 17437,The Death and Life of Marsha P. Johnson,Yes,2017-10-06,100000,English,2017,The Death and Life of Marsha P. Johnson,70,1428.5714285714287
 17411,The Colditz Story,No,,100000,English,0,The Colditz Story,0,inf
-17409,The Closed Circuit,No,,100000,pl,0,The Closed Circuit,0,inf
+17409,The Closed Circuit,No,,100000,Polish,0,The Closed Circuit,0,inf
 17439,The Deed of Death,No,,100000,German,0,The Deed of Death,0,inf
 17394,The Bride and the Lover,No,,100000,English,0,The Bride and the Lover,0,inf
 17382,The Big Hit (1998),No,,100000,English,0,The Big Hit (1998),0,inf
@@ -15966,7 +15966,7 @@
 17304,Talak 3,No,,100000,English,0,Talak 3,0,inf
 17306,Tales From The Dark Part 2,No,,100000,Korean,0,Tales From The Dark Part 2,0,inf
 17291,Sympathy for Mr. Vengeance,No,,100000,Korean,0,Sympathy for Mr. Vengeance,0,inf
-17307,Tales of Africa: Season 1,No,,100000,French,0,Tales of Africa,0,inf
+17307,Tales of Africa: Season 1,No,,100000,English,0,Tales of Africa,0,inf
 17308,Talk to Me (2007),No,,100000,English,0,Talk to Me (2007),0,inf
 17309,Talking Animals,No,,100000,Spanish,0,Talking Animals,0,inf
 17310,Tamam mıyız?,No,,100000,English,0,Tamam mıyız?,0,inf
@@ -16038,7 +16038,7 @@
 17375,The Beach Bum,No,,100000,English,0,The Beach Bum,0,inf
 17376,The Beauty Inside,No,,100000,Korean,0,The Beauty Inside,0,inf
 17377,The Bedside Detective,No,,100000,Thai,0,The Bedside Detective,0,inf
-17351,The 100th Love With You,No,,100000,Korean,0,The 100th Love With You,0,inf
+17351,The 100th Love With You,No,,100000,Japanese,0,The 100th Love With You,0,inf
 17350,The  Shop next to the best,No,,100000,Korean,0,The  Shop next to the best,0,inf
 17349,That Thing Called Tadhana,Yes,,100000,English,0,That Thing Called Tadhana,0,inf
 17348,That Girl in Yellow Boots,No,,100000,Spanish,0,That Girl in Yellow Boots,0,inf
@@ -16096,7 +16096,7 @@
 17673,The Real Thing: Season 1,No,,100000,Japanese,0,The Real Thing,0,inf
 17674,The Realm,No,,100000,Spanish,0,The Realm,0,inf
 17675,The Reason I Jump,No,,100000,English,0,The Reason I Jump,0,inf
-17676,The Red Captain,No,,100000,pl,0,The Red Captain,0,inf
+17676,The Red Captain,No,,100000,Polish,0,The Red Captain,0,inf
 17650,The Phone,No,,100000,Korean,0,The Phone,0,inf
 17648,The Past,No,,100000,French,0,The Past,0,inf
 17619,The Miracle Season,No,,100000,English,0,The Miracle Season,0,inf
@@ -16273,8 +16273,8 @@
 17611,The Merger (2018),No,,100000,English,0,The Merger (2018),0,inf
 17612,The Message,No,,100000,Korean,0,The Message,0,inf
 17613,The Messenger,No,,100000,German,0,The Messenger,0,inf
-17614,The Midnight After,No,,100000,zh-tw,0,The Midnight After,0,inf
-17615,The Midnight Maiden War,No,,100000,Korean,0,The Midnight Maiden War,0,inf
+17614,The Midnight After,No,,100000,Korean,0,The Midnight After,0,inf
+17615,The Midnight Maiden War,No,,100000,zh-cn,0,The Midnight Maiden War,0,inf
 17616,The Milk System,No,,100000,English,0,The Milk System,0,inf
 17590,The Lover (1992),No,,100000,English,0,The Lover (1992),0,inf
 17589,The Loveliest Riddle,No,,100000,Spanish,0,The Loveliest Riddle,0,inf
@@ -16319,7 +16319,7 @@
 15034,Comunero Rebellion,No,,100000,Spanish,0,Comunero Rebellion,0,inf
 15035,Confession,No,,100000,Korean,0,Confession,0,inf
 15036,Confession of Murder,No,,100000,Korean,0,Confession of Murder,0,inf
-15037,Conscience,No,,100000,Portuguese,0,Conscience,0,inf
+15037,Conscience,No,,100000,Catalan,0,Conscience,0,inf
 15038,Containment (2015),No,,100000,English,0,Containment (2015),0,inf
 15040,Cool Gel Attacks,No,,100000,Spanish,0,Cool Gel Attacks,0,inf
 15025,Comedy Central Roast of AKA,No,,100000,English,0,Comedy Central Roast of AKA,0,inf
@@ -16447,7 +16447,7 @@
 14923,Campo Grande,No,,100000,English,0,Campo Grande,0,inf
 14924,"Can Go Up, Can Go Down",No,,100000,Indonesian,0,"Can Go Up, Can Go Down",0,inf
 14925,Canton God Father,No,,100000,zh-cn,0,Canton God Father,0,inf
-14926,Cape No. 7,No,,100000,Korean,0,Cape No. 7,0,inf
+14926,Cape No. 7,No,,100000,zh-tw,0,Cape No. 7,0,inf
 14927,Capturing Cricket: Steve Waugh in India,No,,100000,English,0,Capturing Cricket: Steve Waugh in India,0,inf
 14928,Cargo,No,,100000,ne,0,Cargo,0,inf
 14929,Carmina y amén,No,,100000,English,0,Carmina y amén,0,inf
@@ -16460,7 +16460,7 @@
 14993,City Hunter,No,,100000,Spanish,0,City Hunter,0,inf
 14890,Brother's Shadow,No,,100000,English,0,Brother's Shadow,0,inf
 14878,Breaking News,No,,100000,ar,0,Breaking News,0,inf
-14879,Breakout: Season 1,No,,100000,zh-tw,0,Breakout,0,inf
+14879,Breakout: Season 1,No,,100000,Korean,0,Breakout,0,inf
 14880,Breath (2018),No,,100000,English,0,Breath (2018),0,inf
 14881,Bridgerton - The Afterparty,Yes,2021-01-23,100000,English,2021,Bridgerton - The Afterparty,30,3333.3333333333335
 14882,Bridget Jones's Diary,No,,100000,English,0,Bridget Jones's Diary,0,inf
@@ -16472,7 +16472,7 @@
 14888,Bros (2022),No,,100000,English,0,Bros (2022),0,inf
 14889,Brother Jekwu,No,,100000,English,0,Brother Jekwu,0,inf
 14891,Brotherhood of Blades,No,,100000,Spanish,0,Brotherhood of Blades,0,inf
-14904,Bully,No,,100000,pl,0,Bully,0,inf
+14904,Bully,No,,100000,Polish,0,Bully,0,inf
 14892,Brothers by Blood,No,,100000,English,0,Brothers by Blood,0,inf
 14893,Brothers in Brothel,No,,100000,Spanish,0,Brothers in Brothel,0,inf
 14894,Brothers of the Wind,No,,100000,English,0,Brothers of the Wind,0,inf
@@ -16480,7 +16480,7 @@
 14896,Bruder: Schwarze Macht: Season 1,No,,100000,English,0,Bruder: Schwarze Macht,0,inf
 14897,BTOOOM!: Season 1,No,,100000,English,0,BTOOOM!,0,inf
 14898,Bucharest Nonstop,No,,100000,ro,0,Bucharest Nonstop,0,inf
-14899,Budapest Heist,No,,100000,French,0,Budapest Heist,0,inf
+14899,Budapest Heist,No,,100000,Indonesian,0,Budapest Heist,0,inf
 14900,Buddy Thunderstruck: The Maybe Pile,Yes,2017-07-14,100000,English,2017,Buddy Thunderstruck: The Maybe Pile,73,1369.86301369863
 14901,Budhia Singh: Born to Run,No,,100000,Hindi,0,Budhia Singh: Born to Run,0,inf
 14902,Bugsy,No,,100000,English,0,Bugsy,0,inf
@@ -16629,7 +16629,7 @@
 15343,Evolution of KL Drift,No,,100000,German,0,Evolution of KL Drift,0,inf
 15344,Evolution of KL Drift 2,No,,100000,German,0,Evolution of KL Drift 2,0,inf
 15345,Excuse My French,No,,100000,ar,0,Excuse My French,0,inf
-15346,Exterminator: Ready to Roll,No,,100000,pl,0,Exterminator: Ready to Roll,0,inf
+15346,Exterminator: Ready to Roll,No,,100000,Polish,0,Exterminator: Ready to Roll,0,inf
 15347,Extraterrestrial (2014),No,,100000,English,0,Extraterrestrial (2014),0,inf
 15348,Extremely Loud and Incredibly Close,No,,100000,English,0,Extremely Loud and Incredibly Close,0,inf
 15349,Eyeshield 21: Season 3,No,,100000,Spanish,0,Eyeshield 21,0,inf
@@ -16760,8 +16760,8 @@
 15177,Destination Wedding (2018),No,,100000,English,0,Destination Wedding (2018),0,inf
 15178,Destiny,No,,100000,ar,0,Destiny,0,inf
 15179,Det største i verden,No,,100000,English,0,Det største i verden,0,inf
-15180,Detective Chinatown 2,No,,100000,Korean,0,Detective Chinatown 2,0,inf
-15181,Detective Conan: Police Academy Arc – Wild Police Story: Season 1,No,,100000,Japanese,0,Detective Conan: Police Academy Arc – Wild Police Story,0,inf
+15180,Detective Chinatown 2,No,,100000,zh-cn,0,Detective Chinatown 2,0,inf
+15181,Detective Conan: Police Academy Arc – Wild Police Story: Season 1,No,,100000,English,0,Detective Conan: Police Academy Arc – Wild Police Story,0,inf
 15182,Detective Dee The Headless God will,No,,100000,Korean,0,Detective Dee The Headless God will,0,inf
 15183,Detective Dee: The Four Heavenly Kings,No,,100000,Korean,0,Detective Dee: The Four Heavenly Kings,0,inf
 15184,Detective K: Secret of the Living Dead,No,,100000,Korean,0,Detective K: Secret of the Living Dead,0,inf
@@ -16781,7 +16781,7 @@
 15198,Dikkulu Choodaku Ramayya,No,,100000,English,0,Dikkulu Choodaku Ramayya,0,inf
 15199,Dil,No,,100000,Hindi,0,Dil,0,inf
 15200,Dimsum Martabak,No,,100000,English,0,Dimsum Martabak,0,inf
-15201,Diner,No,,100000,Japanese,0,Diner,0,inf
+15201,Diner,No,,100000,German,0,Diner,0,inf
 14877,Breakdown (1997),No,,100000,English,0,Breakdown (1997),0,inf
 14875,Brave ragazze,No,,100000,English,0,Brave ragazze,0,inf
 16305,Manoranjan,No,,100000,Hindi,0,Manoranjan,0,inf
@@ -16791,7 +16791,7 @@
 14552,After the Sunset,No,,100000,English,0,After the Sunset,0,inf
 14553,Afterlife (2021),No,,100000,English,0,Afterlife (2021),0,inf
 14554,Aftermath,No,,100000,Spanish,0,Aftermath,0,inf
-14555,Aftermath,No,,100000,pl,0,Aftermath,0,inf
+14555,Aftermath,No,,100000,Polish,0,Aftermath,0,inf
 14556,Aftershock,No,,100000,Korean,0,Aftershock,0,inf
 14557,Aftersun,No,,100000,English,0,Aftersun,0,inf
 14558,Agatha Christie's Endless Night,No,,100000,English,0,Agatha Christie's Endless Night,0,inf
@@ -16869,7 +16869,7 @@
 14630,Another: Season 1,No,,100000,English,0,Another,0,inf
 14631,Ante Sundaraniki (Malayalam),No,,100000,English,0,Ante Sundaraniki (Malayalam),0,inf
 14632,Anti-Life,No,,100000,English,0,Anti-Life,0,inf
-14633,Antoine Griezmann: The Making of a Legend,Yes,2019-03-21,100000,French,2019,Antoine Griezmann: The Making of a Legend,52,1923.076923076923
+14633,Antoine Griezmann: The Making of a Legend,Yes,2019-03-21,100000,nl,2019,Antoine Griezmann: The Making of a Legend,52,1923.076923076923
 14634,Anukokunda Oka Roju,No,,100000,English,0,Anukokunda Oka Roju,0,inf
 14635,Ao Oni ver.2.0,No,,100000,no,0,Ao Oni ver.2.0,0,inf
 14609,Amr's in Trouble,No,,100000,ar,0,Amr's in Trouble,0,inf
@@ -16918,7 +16918,7 @@
 14440,5 Star Christmas,Yes,2018-12-07,100000,Spanish,2018,5 Star Christmas,56,1785.7142857142858
 14441,54 Hours: Season 1,No,,100000,Spanish,0,54 Hours,0,inf
 14442,5Gang,No,,100000,Spanish,0,5Gang,0,inf
-14444,7 Emotions,No,,100000,pl,0,7 Emotions,0,inf
+14444,7 Emotions,No,,100000,Polish,0,7 Emotions,0,inf
 14429,30 Minute Workouts: Volume 2,No,,100000,English,0,30 Minute Workouts: Volume 2,0,inf
 14445,7 Minutes,No,,100000,et,0,7 Minutes,0,inf
 14446,"7 rzeczy, których nie wiecie o facetach",No,,100000,English,0,"7 rzeczy, których nie wiecie o facetach",0,inf
@@ -16932,7 +16932,7 @@
 14454,99 Homes,No,,100000,English,0,99 Homes,0,inf
 14455,99 Nama Cinta,No,,100000,English,0,99 Nama Cinta,0,inf
 14456,9to5: The Story of a Movement,No,,100000,English,0,9to5: The Story of a Movement,0,inf
-14430,3Grapes,No,,100000,ro,0,3Grapes,0,inf
+14430,3Grapes,No,,100000,Turkish,0,3Grapes,0,inf
 14428,30 Jours Max,No,,100000,English,0,30 Jours Max,0,inf
 14516,A Werewolf Boy,No,,100000,Korean,0,A Werewolf Boy,0,inf
 14413,13: Game of Death,No,,100000,Thai,0,13: Game of Death,0,inf
@@ -17032,7 +17032,7 @@
 14793,Big Cats,No,,100000,English,0,Big Cats,0,inf
 14794,Big Fat Liar,No,,100000,English,0,Big Fat Liar,0,inf
 14795,Big Girls Don't Cry,No,,100000,German,0,Big Girls Don't Cry,0,inf
-14796,Big Guns - No Way Out,No,,100000,German,0,Big Guns - No Way Out,0,inf
+14796,Big Guns - No Way Out,No,,100000,Catalan,0,Big Guns - No Way Out,0,inf
 14797,Big Love (2011),No,,100000,English,0,Big Love (2011),0,inf
 14798,Big Time Adolescence,No,,100000,English,0,Big Time Adolescence,0,inf
 14799,Big Trip 2: Special Delivery,No,,100000,Spanish,0,Big Trip 2: Special Delivery,0,inf
@@ -17044,7 +17044,7 @@
 14805,Billionaire Boys Club (2018),No,,100000,English,0,Billionaire Boys Club (2018),0,inf
 14806,Bingo (1991),No,,100000,English,0,Bingo (1991),0,inf
 14807,Binti (2021),No,,100000,English,0,Binti (2021),0,inf
-14808,Birders,Yes,2019-09-25,100000,Spanish,2019,Birders,46,2173.913043478261
+14808,Birders,Yes,2019-09-25,100000,Slovenian,2019,Birders,46,2173.913043478261
 14809,Birdshot,No,,100000,English,0,Birdshot,0,inf
 14810,Birthday,No,,100000,Korean,0,Birthday,0,inf
 14811,Bitch,No,,100000,English,0,Bitch,0,inf
@@ -17053,7 +17053,7 @@
 14814,Black and White (2002),No,,100000,English,0,Black and White (2002),0,inf
 14788,Bhavesh Joshi Superhero,No,,100000,Hindi,0,Bhavesh Joshi Superhero,0,inf
 14786,Bhai: Vyakti Ki Valli - Poorvardha,No,,100000,English,0,Bhai: Vyakti Ki Valli - Poorvardha,0,inf
-14757,Behind The Clouds,No,,100000,nl,0,Behind The Clouds,0,inf
+14757,Behind The Clouds,No,,100000,German,0,Behind The Clouds,0,inf
 14771,Best of Phua Chu Kang Pte Ltd: Season 2,No,,100000,English,0,Best of Phua Chu Kang Pte Ltd,0,inf
 14759,Belle Epoque,No,,100000,Spanish,0,Belle Epoque,0,inf
 14760,Belly,No,,100000,English,0,Belly,0,inf
@@ -17085,7 +17085,7 @@
 14816,Black Book,No,,100000,Spanish,0,Black Book,0,inf
 14817,Black Butler II: OVA,No,,100000,Spanish,0,Black Butler II: OVA,0,inf
 14860,Boris: The Film,No,,100000,Italian,0,Boris: The Film,0,inf
-14848,Body,No,,100000,pl,0,Body,0,inf
+14848,Body,No,,100000,Polish,0,Body,0,inf
 14849,Body,No,,100000,Thai,0,Body,0,inf
 14850,Boi,No,2019-07-26,100000,English,2019,Boi,48,2083.3333333333335
 14851,BoJack Horseman Christmas Special: Sabrina's Christmas Wish,Yes,2014-12-19,100000,English,2014,BoJack Horseman Christmas Special: Sabrina's Christmas Wish,104,961.5384615384615
@@ -17148,7 +17148,7 @@
 14671,Atze Schröder - Turbo,No,,100000,English,0,Atze Schröder - Turbo,0,inf
 14672,Atze Schröder Live - Richtig Fremdgehen,No,,100000,English,0,Atze Schröder Live - Richtig Fremdgehen,0,inf
 14673,Autsajder,No,,100000,English,0,Autsajder,0,inf
-14674,Autumn Girl,Yes,2022-03-08,100000,pl,2022,Autumn Girl,16,6250.0
+14674,Autumn Girl,Yes,2022-03-08,100000,Polish,2022,Autumn Girl,16,6250.0
 14675,Avalanche of Love,No,,100000,Spanish,0,Avalanche of Love,0,inf
 14676,Ave Maryam,No,,100000,English,0,Ave Maryam,0,inf
 14677,Avenue Montaigne,No,,100000,French,0,Avenue Montaigne,0,inf
@@ -17205,7 +17205,7 @@
 14698,Back to Q82,No,,100000,ar,0,Back to Q82,0,inf
 14741,Be-Bop Highschool: Koko Yotaro Ondo,No,,100000,Japanese,0,Be-Bop Highschool: Koko Yotaro Ondo,0,inf
 14729,Battle of the Fists,No,,100000,vi,0,Battle of the Fists,0,inf
-14730,Battle of the Sexes,No,,100000,pl,0,Battle of the Sexes,0,inf
+14730,Battle of the Sexes,No,,100000,Polish,0,Battle of the Sexes,0,inf
 14731,Battles Without Honor and Humanity,No,,100000,Japanese,0,Battles Without Honor and Humanity,0,inf
 14732,Battles Without Honor and Humanity Dairi Senso,No,,100000,Japanese,0,Battles Without Honor and Humanity Dairi Senso,0,inf
 14733,Battles Without Honor and Humanity Hiroshima Shito Hen /Tarnished Loyalty In Hiroshima,No,,100000,Japanese,0,Battles Without Honor and Humanity Hiroshima Shito Hen /Tarnished Loyalty In Hiroshima,0,inf
@@ -17266,7 +17266,7 @@
 15981,Katka,No,,100000,English,0,Katka,0,inf
 15982,Katkout,No,,100000,ar,0,Katkout,0,inf
 15983,Katyń,No,,100000,English,0,Katyń,0,inf
-15984,Kayko and Kokosh: Season 1,Yes,2021-02-28,100000,pl,2021,Kayko and Kokosh,28,3571.4285714285716
+15984,Kayko and Kokosh: Season 1,Yes,2021-02-28,100000,Polish,2021,Kayko and Kokosh,28,3571.4285714285716
 15985,KD (A) Karuppudurai,No,,100000,English,0,KD (A) Karuppudurai,0,inf
 15986,Kebab Connection,No,,100000,English,0,Kebab Connection,0,inf
 15987,Keeping the Bees,No,,100000,Slovenian,0,Keeping the Bees,0,inf
@@ -17512,7 +17512,7 @@
 16227,"Love in May, 2020: Season 1",No,,100000,Japanese,0,"Love in May, 2020",0,inf
 16228,Love Is a Story,Yes,,100000,Portuguese,0,Love Is a Story,0,inf
 16229,Love Is Eternal While It Lasts,No,,100000,Spanish,0,Love Is Eternal While It Lasts,0,inf
-16230,Love Is Science?: Season 1,No,,100000,zh-tw,0,Love Is Science?,0,inf
+16230,Love Is Science?: Season 1,No,,100000,Korean,0,Love Is Science?,0,inf
 16231,Love Is War (2019),No,,100000,English,0,Love Is War (2019),0,inf
 16233,"Love Me, Love Me Not",No,,100000,Japanese,0,"Love Me, Love Me Not",0,inf
 16218,Love After Lockup: Season 2,No,,100000,English,0,Love After Lockup,0,inf
@@ -17531,7 +17531,7 @@
 16219,Love After Lockup: Season 3,No,,100000,English,0,Love After Lockup,0,inf
 16217,Love After Lockup: Season 1,No,,100000,English,0,Love After Lockup,0,inf
 16188,Log Horizon: Destruction of the Round Table,No,,100000,Japanese,0,Log Horizon: Destruction of the Round Table,0,inf
-16202,Los and Faun,No,,100000,Spanish,0,Los and Faun,0,inf
+16202,Los and Faun,No,,100000,German,0,Los and Faun,0,inf
 16190,Lola Igna,No,,100000,English,0,Lola Igna,0,inf
 16191,London Heist,No,,100000,English,0,London Heist,0,inf
 16192,London Sweeties,No,,100000,Thai,0,London Sweeties,0,inf
@@ -17578,7 +17578,7 @@
 16249,Luciano Mellera: Infantiloide,No,2018-07-06,100000,English,2018,Luciano Mellera: Infantiloide,61,1639.344262295082
 16293,Man on High Heels,No,,100000,Spanish,0,Man on High Heels,0,inf
 16294,Manchester by the Sea,No,,100000,English,0,Manchester by the Sea,0,inf
-16295,Manhunt,No,,100000,pl,0,Manhunt,0,inf
+16295,Manhunt,No,,100000,Polish,0,Manhunt,0,inf
 16296,Maniac Tales,No,,100000,English,0,Maniac Tales,0,inf
 16297,Maniyarayile Ashokan,No,,100000,English,0,Maniyarayile Ashokan,0,inf
 16298,Manjhi: The Mountain Man,No,,100000,Hindi,0,Manjhi: The Mountain Man,0,inf
@@ -17701,7 +17701,7 @@
 16177,Little Lunch: The Halloween Horror Story,No,,100000,English,0,Little Lunch: The Halloween Horror Story,0,inf
 16178,Little Miss Sumo,Yes,2019-10-28,100000,Korean,2019,Little Miss Sumo,45,2222.222222222222
 16179,"Little Nights, Little Love",No,,100000,Japanese,0,"Little Nights, Little Love",0,inf
-16180,Little Rose,No,,100000,pl,0,Little Rose,0,inf
+16180,Little Rose,No,,100000,Polish,0,Little Rose,0,inf
 16181,Little Singham Future mein Satakli,No,,100000,English,0,Little Singham Future mein Satakli,0,inf
 16182,Little Singham Samundar Ka Sikandar,No,,100000,English,0,Little Singham Samundar Ka Sikandar,0,inf
 16183,Little Taekwon-V,No,,100000,Korean,0,Little Taekwon-V,0,inf
@@ -17735,7 +17735,7 @@
 16152,Light in the Dark,No,,100000,English,0,Light in the Dark,0,inf
 16153,Lightning Man & The Mystery Island,No,,100000,Spanish,0,Lightning Man & The Mystery Island,0,inf
 16154,Like a Boss (2020),No,,100000,English,0,Like a Boss (2020),0,inf
-16155,Like Cats and Dogs,No,,100000,pl,0,Like Cats and Dogs,0,inf
+16155,Like Cats and Dogs,No,,100000,Polish,0,Like Cats and Dogs,0,inf
 15830,In Good Company (2004),No,,100000,English,0,In Good Company (2004),0,inf
 15829,In from the Cold? A Portrait of Richard Burton,No,,100000,English,0,In from the Cold? A Portrait of Richard Burton,0,inf
 15828,In aller Freundschaft - Die Krankenschwestern: Season 1,No,,100000,English,0,In aller Freundschaft - Die Krankenschwestern,0,inf
@@ -17763,7 +17763,7 @@
 15524,Genitori vs Influencer,No,,100000,English,0,Genitori vs Influencer,0,inf
 15525,Genius (2018),No,,100000,English,0,Genius (2018),0,inf
 15526,Getúlio,No,,100000,English,0,Getúlio,0,inf
-15527,Ghost,No,,100000,ar,0,Ghost,0,inf
+15527,Ghost,No,,100000,fa,0,Ghost,0,inf
 15528,Ghost Child,No,,100000,Korean,0,Ghost Child,0,inf
 15529,Ghost in the Shell 2: Innocence,No,,100000,Spanish,0,Ghost in the Shell 2: Innocence,0,inf
 15503,Gambit (2012),No,,100000,English,0,Gambit (2012),0,inf
@@ -18001,7 +18001,7 @@
 15762,How do you like Wednesday?: Card draw Journey Hokkaido ⅠⅠ (1997),No,,100000,Japanese,0,How do you like Wednesday?: Card draw Journey Hokkaido ⅠⅠ (1997),0,inf
 15763,How do you like Wednesday?: Let's Roll for It! 5 (1998),No,,100000,Japanese,0,How do you like Wednesday?: Let's Roll for It! 5 (1998),0,inf
 15764,How do you like Wednesday?: Let's Roll for It! 6 (1999),No,,100000,Japanese,0,How do you like Wednesday?: Let's Roll for It! 6 (1999),0,inf
-15765,How Much Does the Trojan Horse Weigh?,No,,100000,pl,0,How Much Does the Trojan Horse Weigh?,0,inf
+15765,How Much Does the Trojan Horse Weigh?,No,,100000,Polish,0,How Much Does the Trojan Horse Weigh?,0,inf
 15766,How the Beatles Changed the World,No,,100000,English,0,How the Beatles Changed the World,0,inf
 15767,How to Be a Good Wife,No,,100000,Spanish,0,How to Be a Good Wife,0,inf
 15741,Hostage: Missing Celebrity,No,,100000,Spanish,0,Hostage: Missing Celebrity,0,inf
@@ -18019,7 +18019,7 @@
 15720,Holding the Man,No,,100000,English,0,Holding the Man,0,inf
 15721,Holiday Home Makeover with Mr. Christmas: Season 1,Yes,2020-11-18,100000,English,2020,Holiday Home Makeover with Mr. Christmas,32,3125.0
 15722,Holiday on Mars,No,,100000,Italian,0,Holiday on Mars,0,inf
-15723,Holy Business,No,,100000,pl,0,Holy Business,0,inf
+15723,Holy Business,No,,100000,Polish,0,Holy Business,0,inf
 15725,Holy Expectations,No,,100000,Spanish,0,Holy Expectations,0,inf
 15738,Hors normes,No,,100000,English,0,Hors normes,0,inf
 15726,Home is Where your Heart is,No,,100000,nl,0,Home is Where your Heart is,0,inf
@@ -18029,7 +18029,7 @@
 15730,Homme Fatale,No,,100000,Korean,0,Homme Fatale,0,inf
 15731,Honey 2,No,,100000,English,0,Honey 2,0,inf
 15732,Honey Boy (2019),No,,100000,English,0,Honey Boy (2019),0,inf
-15733,"Honey, I've Killed You",No,,100000,pl,0,"Honey, I've Killed You",0,inf
+15733,"Honey, I've Killed You",No,,100000,Polish,0,"Honey, I've Killed You",0,inf
 15734,Hong Kong West Side Stories: Season 1,No,,100000,Korean,0,Hong Kong West Side Stories,0,inf
 15735,Hope,No,,100000,Korean,0,Hope,0,inf
 15736,Hope,No,,100000,Japanese,0,Hope,0,inf
@@ -18066,13 +18066,13 @@
 15826,Image of Victory,No,,100000,he,0,Image of Victory,0,inf
 15800,I Was a Secret Bitch,No,,100000,Japanese,0,I Was a Secret Bitch,0,inf
 15799,I Still Know What You Did Last Summer,No,,100000,English,0,I Still Know What You Did Last Summer,0,inf
-15798,I Never Cry,No,,100000,pl,0,I Never Cry,0,inf
+15798,I Never Cry,No,,100000,Polish,0,I Never Cry,0,inf
 15797,I Love You Two,No,,100000,Thai,0,I Love You Two,0,inf
 15772,Hubert und Staller - Unter Wölfen,No,,100000,English,0,Hubert und Staller - Unter Wölfen,0,inf
 15773,Hubert und Staller: Eine schöne Bescherung,No,,100000,English,0,Hubert und Staller: Eine schöne Bescherung,0,inf
-15774,Hug me: Season 2,No,,100000,pl,0,Hug me,0,inf
-15775,Hug me: Season 3,No,,100000,pl,0,Hug me,0,inf
-15776,Hug me: Season 4,No,,100000,pl,0,Hug me,0,inf
+15774,Hug me: Season 2,No,,100000,Polish,0,Hug me,0,inf
+15775,Hug me: Season 3,No,,100000,Polish,0,Hug me,0,inf
+15776,Hug me: Season 4,No,,100000,Polish,0,Hug me,0,inf
 15777,Human Capital,No,,100000,Italian,0,Human Capital,0,inf
 15778,Hunt for U-479,No,,100000,English,0,Hunt for U-479,0,inf
 15779,Hunterrr,No,,100000,Hindi,0,Hunterrr,0,inf
@@ -18149,7 +18149,7 @@
 15612,Hall Pass,No,,100000,English,0,Hall Pass,0,inf
 15613,Halloween: H2O,No,,100000,English,0,Halloween: H2O,0,inf
 15614,Hamilton 2: Men inte om det gäller din dotter,No,,100000,Swedish,0,Hamilton 2: Men inte om det gäller din dotter,0,inf
-15615,Hamilton: In the Interest of the Nation,No,,100000,English,0,Hamilton: In the Interest of the Nation,0,inf
+15615,Hamilton: In the Interest of the Nation,No,,100000,Italian,0,Hamilton: In the Interest of the Nation,0,inf
 15616,Hammamet,No,,100000,English,0,Hammamet,0,inf
 15617,Hammington Family's Dream Wardrobe,No,,100000,Korean,0,Hammington Family's Dream Wardrobe,0,inf
 15618,Hanasaki Mai Speaks Out: Season 1,No,,100000,Japanese,0,Hanasaki Mai Speaks Out,0,inf
@@ -18159,7 +18159,7 @@
 15694,Hey! First Time in KOREA?: 2020,No,,100000,Korean,0,Hey! First Time in KOREA?: 2020,0,inf
 15682,Henry van Loon - Onze Henry,No,,100000,English,0,Henry van Loon - Onze Henry,0,inf
 15683,Her Divorce Lawyer,No,,100000,Spanish,0,Her Divorce Lawyer,0,inf
-15684,Here and There,Yes,,100000,tl,0,Here and There,0,inf
+15684,Here and There,Yes,,100000,af,0,Here and There,0,inf
 15685,Here Got Ghosts,No,,100000,Indonesian,0,Here Got Ghosts,0,inf
 15686,Hero,No,,100000,Korean,0,Hero,0,inf
 15687,Hero (2015),No,,100000,English,0,Hero (2015),0,inf

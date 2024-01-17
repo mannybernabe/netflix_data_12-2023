@@ -6,7 +6,7 @@ import pandas as pd
 from langdetect import detect
 
 # Load and Clean Datat ----
-df=pd.read_excel("./00_raw_data/What_We_Watched_A_Netflix_Engagement_Report_2023Jan-Jun.xlsx",
+df=pd.read_excel("./data/raw/What_We_Watched_A_Netflix_Engagement_Report_2023Jan-Jun.xlsx",
               skiprows=5,
               usecols="B:E")
 
@@ -36,6 +36,7 @@ language_codes = {
     "sl": "Slovenian",
     "de": "German",
     "it": "Italian",
+    "pl": "Polish"
 }
 
 
@@ -118,5 +119,5 @@ df["views_per_month"]=df["hours_viewed"]/df['months_from_target']
 # save output to disk
 
 
-df.to_csv("./00_data_wrangled/clean_data_1.csv")
-df.to_csv("./00_data_wrangled/clean_data_1.pkl")
+df.to_csv("./data/processed/clean_data_1.csv",index=False)
+df.to_csv("./data/processed/clean_data_1.pkl")
