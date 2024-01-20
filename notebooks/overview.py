@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
+import numpy as np
 
 from mizani.formatters import custom_format
 
@@ -58,14 +58,50 @@ top_10_fig = ggplot(top_10_df, aes(x='title', y='hours_viewed')) \
                     y='Hours Viewed'
                 ) \
                 + theme_minimal() \
-                + scale_y_continuous(labels=million_formatter, expand=(0.1, 0)) \
+                + scale_y_continuous(labels=million_formatter, 
+                                     expand=(0.1, 0)) \
                 + expand_limits(y=0)
  
  
- 
-ggsave(plot="top_10_fig", filename="./figures/top_ten_fig.png")
 
 
+top_10_fig.save('figures/top_ten_fig.png', 
+                width=10, height=5, 
+                units='in', dpi=300)
 
 
-top_10_fig.save('figures/top_ten_fig.png', width=10, height=5, units='in', dpi=300)
+#Top IPs
+top_10_series_df= df[["series","hours_viewed"]]\
+                    .groupby("series") \
+                    .agg(func={"hours_viewed":np.sum})\
+                    .sort_values("hours_viewed",ascending=False)\
+                    .head(20) \
+                    .reset_index() \
+                    .sort_values(by='hours_viewed', ascending=True)
+
+
+top_10_series_df['series'] = pd.Categorical(top_10_series_df['series'], 
+                                    categories=top_10_series_df['series'], 
+                                    ordered=False)
+
+
+top_10_series_df["hours_viewed"]=top_10_series_df["hours_viewed"]/1000000
+
+
+top_10_series_fig = ggplot(top_10_series_df, aes(x='series', y='hours_viewed')) \
+                        + geom_bar(stat='identity',fill="blue") \
+                        + coord_flip() \
+                        + labs(
+                            title='Top 10 Titles by Hours Viewed',
+                            x='',
+                            y='Hours Viewed'
+                        ) \
+                        + theme_minimal() \
+                        + scale_y_continuous(labels=million_formatter, expand=(0.1, 0)) \
+                        + expand_limits(y=0)
+                
+top_10_series_fig
+
+top_10_series_fig.save('figures/top_ten_series_fig.png', 
+                        width=10, height=5, 
+                        units='in', dpi=300)
