@@ -105,3 +105,82 @@ top_10_series_fig
 top_10_series_fig.save('figures/top_ten_series_fig.png', 
                         width=10, height=5, 
                         units='in', dpi=300)
+
+
+
+
+# Top Languages and Percent
+
+# top_10_df["hours_viewed"]=top_10_df["hours_viewed"]/1000000
+
+
+
+top_lang_df=df[["language","hours_viewed"]] \
+    .groupby("language") \
+    .agg(func={"hours_viewed":np.sum})\
+    .sort_values("hours_viewed",ascending=False) \
+    .reset_index()
+    
+    
+   
+ top_languages = top_lang_df.head(10)
+ other_languages = top_lang_df.tail(len(top_lang_df)-10)
+ 
+
+other_sum = pd.DataFrame(data={"language":["Other"],"hours_viewed":[other_languages["hours_viewed"].sum()]})
+   
+
+final_df = pd.concat([top_languages,other_sum])
+    
+final_df.reset_index(drop=True, inplace=True)
+
+final_df
+
+final_df["hours_viewed"]=final_df["hours_viewed"]/1000000
+
+final_df["hours_viewed"].sum()
+
+total_hours_viewed_lang = final_df["hours_viewed"].sum()
+
+final_df["per_of_total_views"]=(final_df["hours_viewed"]/total_hours_viewed_lang) * 100
+
+
+final_df.columns
+
+
+
+
+
+
+# Correct DataFrame name and column references for the plot
+final_df['label'] = final_df['language'] + ' (' + final_df['per_of_total_views'].map(lambda x: '{:.2f}%'.format(x)) + ')'
+
+# Create figure and axis for the donut chart
+fig, ax = plt.subplots(figsize=(10, 6), subplot_kw=dict(aspect="equal"))
+
+# The pie chart parameters
+wedges, texts, autotexts = ax.pie(final_df['hours_viewed'],
+                                   startangle=140,
+                                   labels=final_df['label'],
+                                   autopct='%1.1f%%',
+                                   textprops=dict(color="black"),
+                                   colors=plt.cm.tab20.colors)
+
+# Draw a white circle in the middle to create the donut hole
+centre_circle = plt.Circle((0, 0), 0.70, color='white')
+fig.gca().add_artist(centre_circle)
+
+# Equal aspect ratio ensures that pie is drawn as a circle
+ax.axis('equal')
+
+# Title for the donut chart
+plt.title('Top Languages by Hours Viewed (%)')
+
+# Adjust layout to make room for the legend
+plt.tight_layout()
+
+# Display the plot with labels
+plt.show()
+
+
+# NOTE to SELF: Need a better chart than donut
