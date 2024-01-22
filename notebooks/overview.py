@@ -123,8 +123,8 @@ top_lang_df=df[["language","hours_viewed"]] \
     
     
    
- top_languages = top_lang_df.head(10)
- other_languages = top_lang_df.tail(len(top_lang_df)-10)
+top_languages = top_lang_df.head(10)
+other_languages = top_lang_df.tail(len(top_lang_df)-10)
  
 
 other_sum = pd.DataFrame(data={"language":["Other"],"hours_viewed":[other_languages["hours_viewed"].sum()]})

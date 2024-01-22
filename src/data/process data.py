@@ -83,7 +83,9 @@ df=df.sort_values(by='hours_viewed', ascending=False)
 
 
 
-df["year"]=pd.to_datetime(df['date_release'], errors='coerce').dt.year.fillna(0).astype(int)
+df["year"]=pd.to_datetime(df['date_release'], 
+                          errors='coerce')\
+            .dt.year.fillna(0).astype(int)
 
 
 
@@ -100,18 +102,27 @@ df["series"]=df["title"].apply(extract_series)
 
 
 
+
+##here
+
+
 # Convert 'date_release' to datetime
 df['date_release'] = pd.to_datetime(df['date_release'], errors='coerce')
 
 # Define the target date (June 30, 2023)
-target_date = pd.to_datetime('2023-06-30')
+report_date = pd.to_datetime('2023-06-30')
 
 # Calculate the difference in days, divide by 30 to get months, and round
-df['months_from_target'] = ((target_date - df['date_release']).dt.days / 30).round()
+df['months_from_target'] = ((report_date - df['date_release']).dt.days / 30).round()
+# RENAME THIS ^^^
+# This has errors -- there are NAN in "data_releases" that go to "0", have listed as NA
 
 # Fill NaN values with a placeholder (e.g., 0) and convert to integer
 df['months_from_target'] = df['months_from_target'].fillna(0).astype(int)
+# This has errors 
 
+
+df["hours_viewed"]=df["hours_viewed"]/1000000
 
 df["views_per_month"]=df["hours_viewed"]/df['months_from_target']
 
