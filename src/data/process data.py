@@ -1,6 +1,8 @@
 # Load Libraries ----
 
 import pandas as pd
+import numpy as np
+
 
 
 from langdetect import detect
@@ -71,21 +73,63 @@ df['language'] = df['title'].apply(detect_language_full_name_or_code)
 
 
 
-#clean up variabls, title, create "year"
+#clean up variabls
 df['title'] = df['title'].apply(lambda x: x.split(" // ")[0])
 
-
-
+# Create "year" variable
 df=df.sort_values(by='hours_viewed', ascending=False)
 
 
 
+#replace blank strings w/ NaN in "data_release"
+df["date_release"] = df["date_release"].replace(" ",np.nan)
 
 
 
 df["year"]=pd.to_datetime(df['date_release'], 
                           errors='coerce')\
-            .dt.year.fillna(0).astype(int)
+            .dt.year
+
+
+df["year"] = np.where(df["date_release"].isna(), np.nan, df["year"])
+
+
+df["year"] = np.where(df["date_release"].isna(),
+                      pd.NA,
+                      df["year"])\
+                    .astype('Int64')
+
+
+
+
+
+
+
+# Convert 'date_release' to datetime
+df['date_release'] = pd.to_datetime(df['date_release'], errors='coerce')
+
+# Define the target date (June 30, 2023)
+report_date = pd.to_datetime('2023-06-30')
+
+
+
+# Calculate the difference in days, divide by 30 to get months, and round
+df['months_out'] = ((report_date - df['date_release']).dt.days / 30).round()
+# RENAME THIS ^^^
+# This has errors -- there are NAN in "data_releases" that go to "0", have listed as NA
+
+# Fill NaN values with a placeholder (e.g., 0) and convert to integer
+df['months_out'] = df['months_out'].fillna(0).astype(int)
+# This has errors 
+
+
+df["hours_viewed"]=df["hours_viewed"]/1000000
+
+df["views_per_month"]=df["hours_viewed"]/df['months_out']
+
+
+# save output to disk
+
 
 
 
@@ -103,31 +147,11 @@ df["series"]=df["title"].apply(extract_series)
 
 
 
-##here
 
 
-# Convert 'date_release' to datetime
-df['date_release'] = pd.to_datetime(df['date_release'], errors='coerce')
-
-# Define the target date (June 30, 2023)
-report_date = pd.to_datetime('2023-06-30')
-
-# Calculate the difference in days, divide by 30 to get months, and round
-df['months_from_target'] = ((report_date - df['date_release']).dt.days / 30).round()
-# RENAME THIS ^^^
-# This has errors -- there are NAN in "data_releases" that go to "0", have listed as NA
-
-# Fill NaN values with a placeholder (e.g., 0) and convert to integer
-df['months_from_target'] = df['months_from_target'].fillna(0).astype(int)
-# This has errors 
 
 
-df["hours_viewed"]=df["hours_viewed"]/1000000
 
-df["views_per_month"]=df["hours_viewed"]/df['months_from_target']
-
-
-# save output to disk
 
 
 df.to_csv("./data/processed/clean_data_1.csv",index=False)
