@@ -94,15 +94,6 @@ df["year"]=pd.to_datetime(df['date_release'],
 df["year"] = np.where(df["date_release"].isna(), np.nan, df["year"])
 
 
-df["year"] = np.where(df["date_release"].isna(),
-                      pd.NA,
-                      df["year"])\
-                    .astype('Int64')
-
-
-
-
-
 
 
 # Convert 'date_release' to datetime
@@ -115,24 +106,19 @@ report_date = pd.to_datetime('2023-06-30')
 
 # Calculate the difference in days, divide by 30 to get months, and round
 df['months_out'] = ((report_date - df['date_release']).dt.days / 30).round()
-# RENAME THIS ^^^
-# This has errors -- there are NAN in "data_releases" that go to "0", have listed as NA
 
-# Fill NaN values with a placeholder (e.g., 0) and convert to integer
-df['months_out'] = df['months_out'].fillna(0).astype(int)
-# This has errors 
+
+
 
 
 df["hours_viewed"]=df["hours_viewed"]/1000000
 
+
 df["views_per_month"]=df["hours_viewed"]/df['months_out']
 
 
-# save output to disk
 
-
-
-
+#funciton that extract series name
 def extract_series(title):
     if ": Season" in title:
         return title.split(": Season")[0]
@@ -146,13 +132,6 @@ df["series"]=df["title"].apply(extract_series)
 
 
 
-
-
-
-
-
-
-
-
+# save to disk
 df.to_csv("./data/processed/clean_data_1.csv",index=False)
 df.to_csv("./data/processed/clean_data_1.pkl")
