@@ -13,7 +13,7 @@ from plotnine import (
     theme, theme_minimal, theme_matplotlib,
     theme_538,theme_dark,
     expand_limits, ggsave,
-    element_text, geom_bar,coord_flip
+    element_text, geom_bar,coord_flip, geom_point
 )
 
 
@@ -22,7 +22,7 @@ df=pd.read_csv("./data/processed/clean_data_1.csv")
 
 
 # Highlevel Stats
-total_hours_viewed_b=df["hours_viewed"].sum()/1000000000
+total_hours_viewed_b=df["hours_viewed"].sum()/1000
 n_titles = len(df)
 
 
@@ -44,9 +44,6 @@ top_10_df['title'] = pd.Categorical(top_10_df['title'],
 
 
 
-top_10_df["hours_viewed"]=top_10_df["hours_viewed"]/1000000
-
-
 million_formatter = custom_format('{:,.0f}M')
 
 top_10_fig = ggplot(top_10_df, aes(x='title', y='hours_viewed')) \
@@ -63,7 +60,7 @@ top_10_fig = ggplot(top_10_df, aes(x='title', y='hours_viewed')) \
                 + expand_limits(y=0)
  
  
-
+top_10_fig
 
 top_10_fig.save('figures/top_ten_fig.png', 
                 width=10, height=5, 
@@ -75,7 +72,7 @@ top_10_series_df= df[["series","hours_viewed"]]\
                     .groupby("series") \
                     .agg(func={"hours_viewed":np.sum})\
                     .sort_values("hours_viewed",ascending=False)\
-                    .head(20) \
+                    .head(15) \
                     .reset_index() \
                     .sort_values(by='hours_viewed', ascending=True)
 
@@ -84,8 +81,6 @@ top_10_series_df['series'] = pd.Categorical(top_10_series_df['series'],
                                     categories=top_10_series_df['series'], 
                                     ordered=False)
 
-
-top_10_series_df["hours_viewed"]=top_10_series_df["hours_viewed"]/1000000
 
 
 top_10_series_fig = ggplot(top_10_series_df, aes(x='series', y='hours_viewed')) \
@@ -136,18 +131,10 @@ final_df.reset_index(drop=True, inplace=True)
 
 final_df
 
-final_df["hours_viewed"]=final_df["hours_viewed"]/1000000
-
-final_df["hours_viewed"].sum()
 
 total_hours_viewed_lang = final_df["hours_viewed"].sum()
 
 final_df["per_of_total_views"]=(final_df["hours_viewed"]/total_hours_viewed_lang) * 100
-
-
-final_df.columns
-
-
 
 
 
@@ -155,32 +142,37 @@ final_df.columns
 # Correct DataFrame name and column references for the plot
 final_df['label'] = final_df['language'] + ' (' + final_df['per_of_total_views'].map(lambda x: '{:.2f}%'.format(x)) + ')'
 
-# Create figure and axis for the donut chart
-fig, ax = plt.subplots(figsize=(10, 6), subplot_kw=dict(aspect="equal"))
 
-# The pie chart parameters
-wedges, texts, autotexts = ax.pie(final_df['hours_viewed'],
-                                   startangle=140,
-                                   labels=final_df['label'],
-                                   autopct='%1.1f%%',
-                                   textprops=dict(color="black"),
-                                   colors=plt.cm.tab20.colors)
+df.columns
 
-# Draw a white circle in the middle to create the donut hole
-centre_circle = plt.Circle((0, 0), 0.70, color='white')
-fig.gca().add_artist(centre_circle)
+df_top100 = df.head(100)
 
-# Equal aspect ratio ensures that pie is drawn as a circle
-ax.axis('equal')
-
-# Title for the donut chart
-plt.title('Top Languages by Hours Viewed (%)')
-
-# Adjust layout to make room for the legend
-plt.tight_layout()
-
-# Display the plot with labels
+# Using seaborn to create a scatter plot
+plt.figure(figsize=(10, 6))
+sns.scatterplot(data=df_top100, x='months_out', y='hours_viewed')
+plt.title('Scatter Plot of Hours Viewed vs Months Out')
+plt.xlabel('Months Out')
+plt.ylabel('Hours Viewed')
 plt.show()
 
 
-# NOTE to SELF: Need a better chart than donut
+
+ggplot(data=df_top100, mapping=p9.aes(x='months_out', y='hours_viewed'))
+    + p9.geom_point()
+    
+    
+    
+    
+    
+    
+    
+
+
+
+ggplot(df_top100, aes(x='months_out', 
+                      y='hours_viewed')) \
+                        + geom_point()
+                        
+                        
+df.sort_values("views_per_month",ascending=False).head(10).replace([np.inf, -np.inf], np.nan)
+#fix this ^^^
